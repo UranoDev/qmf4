@@ -1,0 +1,1749 @@
+"C81","Radián","Es la unidad de medida de un ángulo con vértice en el centro de un círculo cuyos lados son cortados por el arco de la circunferencia, y que además dicho arco tiene una longitud igual a la del radio."
+"C25","Milirradián","Es una unidad derivada sistema internacional para la medición angular , que se define como una milésima parte de un radián (0,001 radianes)."
+"B97","Microrradián","Unidad de distancia angular igual a una milésima de milliradian. Unidad angular - una unidad de medida para ángulos."
+"DD","Grado [unidad de ángulo]","Es el resultado de dividir el ángulo llano en 180 partes iguales."
+"D61","Minuto [unidad de ángulo]","Es una sexagesima parte de un grado."
+"D62","Segundo [unidad de ángulo]","es una unidad de medida angular. Su valor equivale a 1/60 del minuto de arco y a 1/3600 del grado sexagesimal."
+"A91","Grado centesimal","Sinónimo: grado
+El grado centesimal o gon —también llamado gradián (plural: gradianes) y gonio — es una unidad de medida de ángulos planos, alternativa al grado sexagesimal y al radián."
+"M43","Mil",
+"M44","Revolución","Unidad para identificar un ángulo de un círculo de 360 grados ó 2*pi*radio (Referencia ISO/TC12 SI Guía)."
+"D27","Estereorradían","Es la unidad que mide angulos solidos"
+"H57","Pulgada por dos pi por radián",
+"MTR","Metro","El metro (símbolo m) es la principal unidad de longitud del Sistema Internacional de Unidades. Un metro es la distancia que recorre la luz en el vacío en un intervalo de 1/299 792 458 de segundo."
+"E96","Grado por segundo",
+"H27","Grado por metro",
+"M55","Metro por radián","Unidad del factor de conversión para la implementación de rotación a movimiento lineal."
+"DMT","Decímetro","Es una unidad de longitud. Es el primer submúltiplo del metro y equivale a la décima parte de él."
+"CMT","Centímetro","Es una unidad de longitud. Es el segundo submúltiplo del metro y equivale a la centésima parte de él."
+"4H","Micra","El micrómetro, micrón o micra es una unidad de longitud equivalente a una milésima parte de un milímetro."
+"MMT","Milímetro","Es una unidad de longitud. Es el tercer submúltiplo del metro y equivale a la milésima parte de él. "
+"HMT","Hectómetro","Es una unidad de longitud. Equivale a 100 metros. Hecto es el prefijo para 100 en el Sistema Internacional de Unidades."
+"KMT","Kilómetro","Es una unidad de longitud. Es el tercer múltiplo del metro, equivalente a 1000 metros. Su símbolo es km y no acepta plural ni lleva punto final —excepto cuando se encuentra como último elemento de una frase u oración— por no tratarse de una abreviatura."
+"C45","Nanómetro","Medida de longitud que equivale a la milmillonésima parte del metro."
+"C52","Picómetro","Es una unidad de longitud del SI que equivale a una billonésima (0,000 000 000 001 o 1×10-12) parte de un metro."
+"A71","Femtómetro","Es la unidad de longitud que equivale a una milbillónesima parte del metro."
+"A45","Decámetro","Medida de longitud, de símbolo dam o Dm, que es igual a 10 metros."
+"NMI","Milla náutica","Es una unidad de longitud empleada en navegación marítima y aérea."
+"A11","Ángstrom","El ángstrom es una unidad de longitud empleada principalmente para expresar longitudes de onda, distancias moleculares y atómicas, etc."
+"A12","Unidad astronómica","Es una unidad de longitud igual por definición a 149 597 870 700 metros, y que equivale aproximadamente a la distancia media entre el planeta Tierra y el Sol."
+"C63","Pársec","Es una unidad de medida astronómica bastante utilizada para calcular grandes distancias entre objetos. "
+"F52","Metro por kelvin",
+"F50","Micrómetro por kelvin",
+"F51","Centímetro por kelvin",
+"G06","Milímetro por bar ",
+"H84","Gramos milímetro",
+"G04","Centímetro por bar",
+"G05","Metro por bar ",
+"H79","Escala francesa ","Unidad de longitud usada para la medición de los diámetros de pequeños tubos como instrumentos urológicos y catéteres.                                                       
+Sinónimos: Francés, Charrière, Charrière gauge."
+"AK","Braza","Una braza es una unidad de longitud náutica, usada generalmente para medir la profundidad del agua. Se llama braza porque equivale a la longitud de un par de brazos extendidos, aproximadamente dos metros, ó 6 pies en el sistema de medición estadounidense."
+"X1","Cadena de gunter","empleada para medir distancias, formada por 100 eslabones metálicos, equivalentes a una longitud total de 20.1168 metros (66 pies) que aún es ampliamente usada en los países anglosajones. "
+"INH","Pulgada","Es una unidad de longitud antropométrica que equivale al ancho de la primera falange del pulgar, y más específicamente a su falange distal."
+"M7","Micro-pulgada",
+"FOT","Pie","Unidad de medida empleada por aeronautas, equivale a 30.48 cm"
+"YRD","Yarda","Es la unidad de longitud básica en los sistemas de medida utilizados en Estados Unidos, Panamá y Reino Unido.
+Equivale a 91.4 centímetros."
+"SMI","Milla (milla estatal)","Medida de longitud, especialmente utilizada en marina, que equivale a 1,852 m."
+"77","Mili-pulgada",
+"B57","Año luz","Unidad de longitud que considera la distancia a la que viaja la luz en el vacío en un año."
+"F49","Rod","Unidad de distancia equivalente a 5.5 yardas (16 pies 6 pulgadas)"
+"MAM","Megametro","Es la unidad de longitud que equivale a un millón de metros."
+"K13","Pie por grado fahrenheit",
+"K17","Pie por psi (libra por pulgada cuadrada)",
+"K45","Pulgada por grado fahrenheit",
+"K46","Pulgada por psi (libra por pulgada cuadrada)",
+"L98","Yarda por grado fahrenheit",
+"L99","Yarda por psi (libra por pulgada cuadrada)",
+"M49","Cadena "," Es una unidad de longitud utilizada para medir terrenos. Equivale a 20,1168 metros, y en inglés se llama surveyor chain."
+"M50","Estadio","Unidad comunmente usada en Gran Bretaña en distancias rurales: 1 furlong = 40 rods = 10 cadenas (UK) =1/8 de milla = 1/10 furlong = 220 yardas =660 pies."
+"M51","Pie","Unidad comunmente usada en los estados unidos para la inspección de artillería."
+"M52","Milla","Unidad comunmente usada en los Estados Unidos para la inspección de artillería."
+"M53","Metro por pascal","Metro, unidad del Sistema Internacional dividido por Pascal, Unidad del Sistema Internacional"
+"MTK","Metro cuadrado","Es la unidad básica de superficie en el Sistema Internacional de Unidades. Si a esta unidad se antepone un prefijo del Sistema Internacional se crea un múltiplo o submúltiplo de esta."
+"KMK","Kilómetro cuadrado","Es la unidad de superficie de área que se corresponde con un cuadrado de un kilómetro de lado."
+"H30","Micrómetro cuadrado",
+"H59","Metro cuadrado por newton",
+"DAA","Decar",
+"CMK","Centímetro cuadrado","Medida de longitud, de símbolo cm, que es igual a la centésima parte de un metro."
+"DMK","Decímetro cuadrado ","Medida de longitud, de símbolo dm, que es igual a la décima parte de un metro."
+"H16","Decámetro cuadrado",
+"H18","Hectómetro cuadrado","Sinónimo: hectárea"
+"MMK","Milímetro cuadrado","Medida de longitud, de símbolo mm, que es igual a la milésima parte de un metro."
+"INK","Pulgada cuadrada","Es una unidad de medida imperial, equivalente a la superficie de un cuadrado cuyo lado posee 1 pulgada de longitud (2,54 centímetros)."
+"FTK","Pie cuadrado"," Es una unidad de superficie del sistema anglosajón de unidades, equivalente a un cuadrado de un pie de lado."
+"YDK","Yarda cuadrada","Es una unidad anglosajona de superficie de una yarda de lado. "
+"MIK","Milla cuadrada (milla estatal)"," Es una unidad de superficie equivalente a un cuadrado cuyos lados miden una milla estatutaria."
+"M48","Milla cuadrada (basado en u.s survey foot)","Unidad de área que es principalmente usada en la agricultura y en la forestación."
+"ACR","Acre","Es una medida de superficie, usada en agricultura en varios países."
+"M47","Circular Mil","Unidad que representa el área del círculo de un mil de diámetro."
+"MTQ","Metro cúbico","Sinónimo: metro cúbico"
+"MAL","Megalitro",
+"LTR","Litro","Es una unidad de volumen equivalente a un decímetro cúbico (1 dm³). Su uso es aceptado en el Sistema Internacional de Unidades (SI), aunque ya no pertenece estrictamente a él."
+"MMQ","Milímetro cúbico","Medida de longitud, de símbolo mm, que es igual a la milésima parte de un metro."
+"CMQ","Centímetro cúbico","Medida de longitud, de símbolo cm, que es igual a la centésima parte de un metro."
+"DMQ","Decímetro cúbico","Medida de longitud, de símbolo dm, que es igual a la décima parte de un metro."
+"MLT","Mililitro","Medida de volumen, de símbolo ml, que es igual a la milésima parte de un litro."
+"HLT","Hectolitro","Es una unidad de volumen equivalente a cien litros, representado por el símbolo hl. Es el segundo múltiplo del litro y también equivale a 100 decímetros cúbicos (0,1 metros cúbicos)."
+"CLT","Centilitro","Medida de volumen, de símbolo cl, que es igual a la centésima parte de un litro."
+"DMA","Decámetro cúbico",
+"H19","Hectómetro cúbico",
+"H20","Kilómetro cúbico",
+"M71","Metro cúbico por pascal (joules)","Unidad de Energía del sistema internacional, metro elevado al exponente 3 y dividido por la unidad pascal."
+"DLT","Decilitro",
+"4G","Microlitro",
+"K6","Kilolitro",
+"A44","Decalitro",
+"G94","Centímetro cúbico por bar",
+"G95","Litro por bar",
+"G96","Metro cúbico por bar",
+"G97","Mililitro por bar ",
+"INQ","Pulgada cúbica","Sinónimo: pulgada cuadrada"
+"FTQ","Pie cubico",
+"YDQ","Yarda cúbica",
+"GLI","Galón (reino unido)","Es una unidad de volumen que se emplea en los países anglófonos (especialmente Estados Unidos) o con influencia de estos (como Liberia, Guatemala, Panamá, Honduras, Nicaragua, El Salvador, Colombia y parcialmente en México), para medir volúmenes de líquid"
+"GLL","Galón (estados unidos)","Es una unidad de volumen que se emplea en los países anglófonos (especialmente Estados Unidos) o con influencia de estos (como Liberia, Guatemala, Panamá, Honduras, Nicaragua, El Salvador, Colombia y parcialmente en México), para medir volúmenes de líquid"
+"PTI","Pint (uk)","Es una unidad de volumen inglesa en el sistema imperial y los Estados Unidos. La versión imperial usada en el Reino Unido es de 20 onzas líquidas y es equivalente a 568,26125 ml, mientras que en los EE.UU. es de 16 onzas líquidas y es equivalente a 473,17"
+"QTI","Cuarto (reino unido)","Es una unidad de medida de volumen equivalente a media fanega. En Castilla equivalía a aproximadamente a 6 celemines. La medida real cambia según regiones o incluso localidades."
+"PTL","Pinta líquida (estados unidos)",
+"QTL","Cuarto de líquido (estadis unidos)",
+"PTD","Pinta seca (estados unidos)",
+"OZI","Onza líquida (reino unido)",
+"J57","Barril (uk petróleo)","Es el nombre de varias unidades de volumen usadas en el Reino Unido y en los Estados Unidos."
+"K21","Pie cúbico por grado fahrenheit",
+"K23","Pie cúbico por psi (libra por pulgada cuadrada)",
+"L43","Peck (reino unido)","Un peck es una unidad tradicional de medida de volúmenes. Aunque puede ser utilizado para medir seco y líquido, se utiliza generalmente para las materias secas. Es igual a 1/4 bushel, 2 galones, o 8 cuartos de galón."
+"L84","Tonelada (flota reino unido)",
+"L86","Tonelada (flota estados unidos)",
+"M11","Yarda cúbica por grado fahrenheit",
+"M14","Yarda cúbica por psi (libra por pulgada cuadrada)",
+"OZA","Onza líquida (estados unidos)",
+"BUI","Bushel (reino unido)","Un bushel tiene 4 pecks o 32 quarts, y equivale a 1,03205 del bushel de los Estados Unidos, que a su vez equivale a 0,35238 hectolitros. La palabra bushel está cayendo en desuso rápidamente."
+"BUA","Bushel (estados unidos)","El bushel es una unidad de medida de capacidad para mercancía sólida en los países anglosajones (países de habla inglesa). Se utiliza en el comercio de granos, harinas y otros productos análogos."
+"BLL","Barril (estados unidos)","Un barril estadounidense es igual a:
+
+42 galones estadounidenses
+168 cuartos estadounidenses
+336 pintas estadounidenses
+1344 gills estadounidenses
+5376 onzas líquidas estadounidenses
+158.987294928 litros"
+"BLD","Barril seco (estados unidos)",
+"GLD","Galón seco (estados unidos)",
+"QTD","Cuarto seco (estados unidos)",
+"G26","Estere",
+"G21","Taza (unidad de volumen)",
+"G24","Cucharada (estados unidos)","1/2 onzas fluidas, 3 cucharaditas, 15 mililitros"
+"G25","Cucharilla (estados unidos)","1/6 onzas fluidas o 5 mililitros"
+"G23","Peck","Es una unidad de medida imperial y habitual en  Estados Unidos de volumen seco."
+"M67","Acre-pie","Unidad de volúmen, la cúal es usada en los Estados Unidos para medir la capacidad de las presas."
+"M68","Cordón","Unidad tradicional del volumen de leña apilada que se ha medido con un cordón."
+"M69","Milla cúbica (reinounido)",
+"M70","Unidad tradicional de capacidad de carga",
+"G27","Centímetro cúbico por kelvin",
+"G29","Metro cúbico por kelvin",
+"G28","Litro por kelvin",
+"G30","Mililitro por klevin",
+"J36","Microlitro por litro",
+"J87","Centímetro cúbico por metro cúbico",
+"J91","Decímetro cúbico por metro cúbico",
+"K62","Litro por litro",
+"L19","Mililitro por litro",
+"L21","Milimetro cúbico por metro cúbico",
+"SEC","Segundo [unidad de tiempo]","Supone comúnmente una sesentava parte de un minuto (1⁄60) y es esencial para la medición en múltiples sistemas de unidades. "
+"MIN","Minuto [unidad de tiempo]","Es una unidad de tiempo que equivale a la sexagésima parte de una hora. También comprende 60 segundos. Su símbolo es min (adviértase que no es una abreviatura: no admite mayúscula, ni punto, ni plural). "
+"HUR","Hora","Es una unidad de tiempo que se corresponde con la vigésimo-cuarta parte de un día solar medio."
+"DAY","Día","Se denomina día (del latín dies) al lapso que tarda la Tierra desde que el Sol está en el punto más alto sobre el horizonte hasta que vuelve a estarlo."
+"B52","Kilosegundo",
+"C26","Milisegundo",
+"H70","Picosegundo",
+"B98","Microsegundo",
+"C47","Nanosegundo",
+"WEE","Semana","Es el período de tiempo estándar utilizado para los ciclos de días de trabajo y de descanso en la mayoría de las partes del mundo."
+"MON","Mes ","Unidad de tiempo equivalente a 1/12 de año de 365.25 días."
+"ANN","Año","Unidad de tiempo equivalente a 365.25 días. "
+"D42","Año tropical","Unidad de tiempo equivalente a 365.242 19 días. Sinónimo: año solar."
+"L95","Año común","Es un año civil de 365 días, uno menos que el año bisiesto, por lo que tiene exactamente 52 semanas y un día. El reparto de los años civiles entre años comunes y años bisiestos se hace de acuerdo con el calendario gregoriano: en cada período de 400 años h"
+"L96","Año sideral","Es el tiempo que trascurre entre dos pasos consecutivos de la Tierra por un mismo punto de su órbita, tomando como referencia a las estrellas."
+"M56","Shake ","Unidad para un periódo muy corto."
+"2A","Radián por segundo","Es la velocidad de un cuerpo que, con una rotación uniforme alrededor de un eje fijo, gira en 1 segundo, 1 radián. "
+"M46","Revolución por minuto",
+"2B","Radián por segundo cuadrado","Es la aceleración angular de un cuerpo animado de una rotación uniformemente variada alrededor de un eje fijo, cuya velocidad angular, varía 1 radián por segundo, en 1 segundo. "
+"M45","Grado por segundo cuadrado","360 partes de un círculo completo dividido por la potencia de la unidad de base SI en segundo lugar y el exponente 2."
+"MTS","Metro por segundo","Es la velocidad de un cuerpo que, con movimiento uniforme, recorre, una longitud de un metro en 1 segundo ."
+"KNT","Nudo","El nudo es una medida de velocidad utilizada tanto para navegación marítima como aérea, equivalente a 1852 m/hora. También se utiliza en meteorología para medir la velocidad de los vientos."
+"KMH","Kilómetro por hora",
+"C16","Milímetro por segundo",
+"2M","Centímetro por segundo",
+"H49","Centímetro por hora",
+"H81","Milímetro por minuto",
+"2X","Metro por minuto",
+"M59","Metro por segundo pascal","Metro dividido por el producto de SI unidad base segundo y el derivado unidad SI pascal."
+"H66","Milímetro por año ",
+"H67","Milímetro por hora",
+"FR","Pie por minuto",
+"IU","Pulgada por segundo",
+"FS","Pie por segundo",
+"HM","Milla por hora (milla estatal)",
+"J84","Centímetro por segundo kelvin",
+"J85","Centímetro por segundo bar",
+"K14","Pie por hora",
+"K18","Pie por segundo grado fahrenheit",
+"K19","Pie por segundo psi (libra por pulgada cuadrada)",
+"K47","Pulgada por segundo grado fahrenheit",
+"K48","Pulgada por segundo psi (libra por pulgada cuadrada)",
+"L12","Metro por segundo kelvin",
+"L13","Metro por segundo bar",
+"M22","Milímetro por centímetro cuadrado minuto",
+"M57","Milla por minuto","Unidad de velocidad del sistema inglés de unidades."
+"M58","Milla por segundo","Unidad de velocidad del sistema inglés de unidades."
+"M60","Metro por hora","Metro,unidad del sistema internacional dividido por la unidad de hora."
+"M61","Pulgada por año","Unidad de longitud según el sistema de unidades Anglo-Americano y el sistema Imperial de unidades dividido por la unidad común año de 365 días."
+"M62","Kilómetro por segundo","1000 veces del medidor de unidad de base SI dividido por la segunda unidad de base SI."
+"M63","Pulgada por minuto","Unidad de pulgada de acuerdo con el sistema de unidades Anglo-Americanas e Imperial dividido por el minuto de unidad."
+"M64","Yarda por segundo","Unidad de yarda de acuerdo con el sistema de unidades Anglo-Americanas e Imperial dividido por la unidad de base segundo."
+"M65","Yarda por minuto","Unidad de yarda de acuerdo con el sistema de unidades Anglo-Americanas e Imperial dividido por el minuto de unidad."
+"M66","Yarda por hora","Unidad de yarda de acuerdo con el sistema Anglo-Americano y el sistema Imperial de unidades, dividido por la unidad de minuto."
+"MSK","Metro por segundo cuadrado","Es la aceleración de un cuerpo, animado de movimiento uniformemente variado, cuya velocidad varía cada segundo, 1 m/s. "
+"A76","Galón","Es una unidad de volumen que se emplea en los países anglófonos (especialmente Estados Unidos) o con influencia de estos (como Liberia, Guatemala, Panamá, Honduras, Nicaragua, El Salvador, Colombia y parcialmente en México), para medir volúmenes de líquid"
+"C11","Miligalón",
+"M38","Kilómetro por segundo cuadrado","1000 veces de la unidad base del sistema internacional dividido por la potencia de la unidad base del sistema internacional por el segundo al  exponente 2."
+"M39","Centímetro por segundo cuadrado","0.01 veces de unidad de base del sistema internacional dividido por la potencia de la unidad de base del sistema internacional en segundo lugar por el exponente 2."
+"M41","Milímetro por segundo cuadrado","0.001 veces de unidad de base del sistema internacional, dividido por la potencia de la unidad de base del sistema internacional por el segundo exponente 2."
+"A73","Pie por segundo al cuadrado",
+"IV","Pulgada por segundo al cuadrado",
+"K40","Aceleración estándar de la caída libre","Es la aceleración nominal de la gravedad de un objeto en un vacío cerca de la superficie de la Tierra."
+"M40","Yarda por segundo cuadrado","Unidad de longitud de acuerdo con el sistema Anglo-Americano y el sistema imperial de unidades, dividido por la potencia de la unidad del sistema internacional, segundo elevado al exponente 2."
+"M42","Milla (milla estatal)  por segundo cuadrado","Unidad de la longitud según el sistema Imperial de unidades dividido por la potencia de la unidad base del sistema internacional por segundo por el exponente 2."
+"C92","Metro recíproco",
+"Q32","Femtolitro",
+"Q33","Picolitro",
+"Q34","Nanolitro",
+"AWG","Calibre de alambre americano","También conocido como el calibre del cable Brown & Sharpe , es un estandarizado calibre del cable sistema utilizado desde 1857 predominantemente en Norteamérica para los diámetros de vuelta, no ferroso,, sólido eléctricamente conductor de alambre."
+"NM3","Metro cúbico normalizado","Metros cúbicos normalizados (temperatura 0 ° C y presión 101325 milibares)"
+"SM3","Metro cúbico estándar","Metro cúbico estándar (temperatura 15 ° C y presión 101325 milibares)"
+"HTZ","Hertz","Unidad de frecuencia del Sistema Internacional, de símbolo Hz, que equivale a la frecuencia de un fenómeno periódico cuyo período es 1 segundo."
+"KHZ","Kilohertz","Medida de frecuencia que es igual a 1000 hertz."
+"MHZ","Megahertz","Medida de frecuencia que es igual a 1 millón de hertz."
+"D29","Terahertz","Se refiere a las ondas electromagnéticas que se propagan en las frecuencias en el rango de los terahercios."
+"A86","Gigahertz","Es un múltiplo de la unidad de medida de frecuencia hercio (Hz) y equivale a 109 (1 000 000 000) Hz. Por lo tanto, tiene un período de oscilación de 1 nanosegundo. Las ondas de radio con frecuencias cercanas al gigahercio se denominan microondas."
+"H10","Hora recíproca",
+"H11","Mes recíproco",
+"H09","Año recíproco",
+"H85","Semana recíproca",
+"C97","Segundo recíproco",
+"RPS","Revoluciones por segundo","Consulte la Guía ISO / TC12 SI"
+"RPM","Revoluciones por minuto","Consulte la Guía ISO / TC12 SI"
+"C94","Minuto recíproco",
+"C50","Neperio","El neper o neperio es una unidad de medida relativa que se utiliza frecuentemente en el campo de la telecomunicación, para expresar relaciones entre voltajes o intensidades."
+"2N","Decibel","Medida de sonoridad o sensación sonora que es igual a la décima parte de un bel."
+"M72","Bel","las décimas de bel, o decibeles. El logaritmo de la relación del sonido o la señal con un estándar proporciona la medición del decibel. ... El símbolo correspondiente a la unidad es B, pero dB es la unidad estándar."
+"C51","Neper por segundo",
+"KGM","Kilogramo","Una unidad de masa igual a mil gramos."
+"MC","Microgramo",
+"DJ","Decagramo",
+"DG","Decigramo",
+"GRM","Gramo","Medida de masa, de símbolo g, que es igual a la milésima parte de un kilogramo."
+"CGM","Centígramo",
+"TNE","Tonelada (tonelada métrica)","Sinónimo: tonelada métrica"
+"DTN","Decitonelada métrica","Sinónimo: centner, métrico 100 kg; Quintal, métrico 100 kg"
+"MGM","Miligramo","Medida de masa, de símbolo mg, que es igual a la milésima parte de un gramo."
+"HGM","Héctogramo",
+"KTN","Kilotonelada Métrica",
+"2U","Megagramo",
+"LBR","Libra","Unidad monetaria de Irlanda (hasta su sustitución por el euro), Reino Unido, Chipre, Egipto, Líbano, Malta, Siria y otros países."
+"GRN","Grano","Es la mínima unidad de masa en el sistema inglés de medidas. Se considera con el mismo valor en cualquier país anglosajón. Se utiliza para estimar con más sensibilidad y precisión la poca masa de pequeños objetos (medicamentos, drogas, pólvora, proyectile"
+"ONZ","Onza (avoirdupois)","Es una unidad de masa usada desde la Antigua Roma para pesar con mayor precisión las mercancías y otros artículos, especialmente si su peso era menor que una libra romana"
+"CWI","Hundredweight",
+"CWA","Hundred pound",
+"LTN","Tonelada (reino unido) o tonelada larga (estados unidos)","Sinónimo: tonelada bruta (2240 ​​lb)"
+"STI","Estone (reino unido)",
+"STN","Tonelada (estados unidos) o tonelada corta (reino unido y estados unidos)","Sinónimo: tonelada neta (2000 lb)"
+"APZ","Onza troy u onza farmacéutica ",
+"F13","Slug","Una unidad de masa. Un slug es la masa acelerada a 1 pie por segundo por segundo por una fuerza de 1 libra."
+"K64","Libra (avoirdupois) por grado fahrenheit",
+"L69","Tonelada por kelvin",
+"L87","Tonelada corta por grado fahrenheit",
+"M85","Tonelada, ensayo","Unidad de masa no conforme al sistema internacional, utilizada en la mineralogía para determinar la concentración de metales preciosos en el mineral de acuerdo con la masa del metal precioso en miligramos en una muestra de la masa de un sonido de ensayo ("
+"M86","Libra","Anticuada unidad de masa usada en Alemania."
+"KMQ","Kilogramo por metro cúbico","Unidad de peso expresada en kilogramos de una sustancia que llena un volumen de un metro cúbico."
+"23","Gramo por centímetro cúbico",
+"D41","Tonelada por metro cúbico",
+"GJ","Gramo por mililitro",
+"B35","Kilogramo por litro",
+"GL","Gramo por litro",
+"A93","Gramo por metro cúbico",
+"GP","Miligramo por metro cúbico",
+"B72","Megagramo por metro cúbico",
+"B34","Kilogramo por decímetro cúbico",
+"H64","Miligramo por gramo",
+"H29","Microgramo por litro",
+"M1","Miligramo por litro",
+"GQ","Microgramo por metro cúbico",
+"G11","Gramo por centímetro cúbico bar",
+"G33","Gramo por centímetro cúbico kelvin",
+"F23","Gramo por decímetro cúbico",
+"G12","Gramo por decímetro cúbico bar",
+"G34","Gramo por decímetro cúbico kelvin",
+"G14","Gramo por metro cúbico bar",
+"G36","Gramo por metro cúbico kelvin",
+"G13","Gramo por litro bar",
+"G35","Gramo por litro kelvin",
+"G15","Gramo por mililitro bar",
+"G37","Gramo por mililitro kelvin",
+"G31","Kilogramo por centímetro cúbico",
+"G16","Kilogramo por centímetro cúbico bar",
+"G38","Kilogramo por centímetro cúbico kelvin",
+"G18","Kilogramo por metro cúbico bar",
+"G40","Kilogramo por metro cúbico kelvin",
+"H54","Kilogramo por decímetro cúbico kelvin ",
+"H55","Kilogramo por decímetro cúbico bar",
+"F14","Gramo por kelvin",
+"F15","Kilogramo por kelvin",
+"F24","Kilogramo por kilomol",
+"G17","Kilogramo por litro bar",
+"G39","Kilogramo por litro kelvin",
+"H53","Kilogramo por bar",
+"F18","Kilogramo centímetro cuadrado",
+"F19","Kilogramo milimetro cuadrado",
+"F74","Gramo por bar",
+"F75","Miligramo por bar",
+"F16","Miligramo por kelvin",
+"M73","Kilogramo por metro cúbico pascal","Unidad base del sistema internacional kilogramo, dividido por el producto de metro elevado al exponente 3 por pascal."
+"87","Libra por pie cúbico",
+"GE","Libra por galón (estados unidos)",
+"LA","Libra por pulgada cúbica ",
+"G32","Onza (avoirdupois) por yarda cúbica",
+"J34","Microgramo por metro cúbico kelvin",
+"J35","Microgramo por metro cúbico bar",
+"K41","Grano por galón (estados unidos)",
+"K69","Libra (avoirdupois) por pie cúbico grado fahrenheit",
+"K70","Libra (avoirdupois) por pie cúbico psi",
+"K71","Libra (avoirdupois) por galón (reino unido)",
+"K75","Libra (avoirdupois) por pulgada cúbica grado fahrenheit",
+"K76","Libra (avoirdupois) por pulgada cúbica psi",
+"K84","Libra por yarda cúbica ",
+"L17","Miligramo por metro cúbico kelvin",
+"L18","Miligramo por metro cúbico bar",
+"L37","Onza (avoirdupois) por galón (reino unido)",
+"L38","Onza (avoirdupois) por galón (estados unidos)",
+"L39","Onza (avoirdupois) por pulgada cúbica",
+"L65","Slug por pie cúbico",
+"L76","Tonelada por metro cúbico kelvin",
+"L77","Tonelada por metro cúbico bar",
+"L92","Tonelada larga (reino unido) por yarda cúbica",
+"L93","Tonelada corta (estados unidos) por yarda cúbica",
+"K77","Libra (avoirdupois) por psi",
+"L70","Tonelada por bar",
+"L91","Tonelada corta por psi",
+"M74","Kilogramo por pascal",
+"C62","Uno","Sinónimo: unidad"
+"A39","Metro cúbico por kilogramo",
+"22","Decilitro por gramo",
+"H65","Mililitro por metro cúbico",
+"H83","Litro por kilogramo",
+"KX","Mililitro por kilogramo",
+"H15","Centímetro cudrado por gramo",
+"N28","Decímetro cúbico por kilogramo","0.001 veces de metro, unidad base  del sistema internacional elevado al exponente 3 dividido por el kilogramo."
+"N29","Pie cúbico por libra ","Potencia del pie, unidad de acuerdo con el sistema de unidades Anglo-Americanas e Imperial elevado al exponente 3 dividido por la libra de la unidad avoirdupois según el sistema unitario avoirdupois."
+"N30","Pulgada cúbica por libra","Potencia de la unidad pulgada según el sistema Anglo-Americano e Imperial de unidades elevado al exponente 3 dividido por la libra avoirdupois según el sistema unitario avoirdupois."
+"KL","Kilogramo por metro",
+"GF","Gramo por metro (gramo por 100 centímetros)",
+"H76","Gramo por milímetro",
+"KW","Kilogramo por milímetro",
+"C12","Miligramo por metro",
+"M31","Kilogramo por kilómetro",
+"P2","Libra por pie",
+"PO","Libra por pulgada",
+"M83","Denier","Unidad tradicional para la indicación de la masa lineal de fibras e hilados textiles."
+"M84","Libra por yarda ","Unidad de masa lineal según el sistema de unidades avoirdupois."
+"GO","Miligramo por metro cuadrado",
+"25","Gramo por centímetro cuadrado",
+"H63","Miligramo por centímetro cuadrado",
+"GM","Gramo por metro cuadrado",
+"28","Kilogramo por metro cuadrado",
+"D5","Kilogramo por centímetro cuadrado",
+"ON","Onza por yarda cuadrada",
+"37","Onza por pie cuadrado",
+"B31","Kilogramo metro por segundo",
+"M98","Kilogramo centímetro por segundo","Producto del kilogramo de unidad de base SI y  0.01 veces de metro unidad de base SI dividido por la unidad de base SI en segundo."
+"M99","Gramo centímetro por segundo","Producto del 0.001 veces del kilogramo de la unidad base SI y el 0,01 veces del metro de la unidad base SI dividido por la unidad base SI, segundo."
+"N10","Libra pie por segundo","Producto de la libra avoirdupois de acuerdo con el sistema de unidades avoirdupois y el pie de acuerdo con el sistema de unidades Anglo-Americano y el sistema imperial, dividido por la unidad segundo del sistema interacional."
+"N11","Libra pulgada por segundo","Producto de la libra avoirdupois de acuerdo con el sistema de unidades avoirdupois y la pulgada de acuerdo con el sistema de unidades Anglo-Americano y el sistema imperial, dividido por la unidad segundo del sistema interacional."
+"B33","Kilogramo metro cuadrado por segundo",
+"B32","Kilogramo metro cuadrado",
+"F20","Libra pulgada cuadrada",
+"K65","Libra (avoirdupois) pie cuadrado",
+"NEW","Newton",
+"B73","Meganewton",
+"B47","Kilonewton",
+"C20","Milinewton",
+"B92","Micronewton",
+"C78","Libra fuerza",
+"L40","Onza fuerza",
+"L94","Tonelada fuerza",
+"M75","Kilolibra fuerza","100 veces la unidad de fuerza, libra fueza de acuerdo con la relación del sistema de unidades  Anglo-Americano"
+"M76","Poundal","Unidad no conforme al sistema internacional de la potencia, que corresponde a una masa de una libra multiplicada con la aceleración de un pie por segundo cuadrado."
+"M77","Kilogramo metro por segundo cuadrado","Producto del kilogramo,unidad base del sistema internacional y del metro, unidad base del sistema internacional dividido por la potencia del segundo elevado al exponente 2."
+"M78","Pond","0.001 veces de la unidad del peso, definida como una masa de 1 kg que se encuentra sobre una fuerza de peso de 1 kp por la fuerza gravitatoria al nivel del mar, que corresponde a una fuerza de 9,806 65 newton."
+"F17","Libra fuerza por pie",
+"F48","Libra fuerza por pulgada",
+"C54","Newton metro cuadrado por kilogramo cuadrado",
+"NU","Newton metro",
+"H40","Newton por ampere",
+"B74","Meganewton metro",
+"B48","Kilonewton metro",
+"D83","Milinewton metro",
+"B93","Micronewton metro",
+"DN","Decinewton metro",
+"J72","Centinewton metro",
+"M94","Kilogramo metro","Unidad de desequilibrio como producto del kilogramo  y el metro."
+"F88","Newton centímetro",
+"F90","Newton metro por amper",
+"F89","Newton metro por grados",
+"G19","Newton metro por kilogramo",
+"F47","Newton por milímetro",
+"M93","Newton metro por radián","Producto de la unidad derivada del sistema internacional, newton y de la unidad base , metro, dividida por la unidad radián."
+"H41","Newton metro watts elevado a la potencia menos 0.5",
+"IA","Pulgada libra",
+"4Q","Onza pulgada",
+"4R","Onza pie",
+"F22","Libra fuerza por pie entre amper",
+"F21","Libra fuerza pulgada",
+"G20","Libra-fuerza pie por libra",
+"L41","Onza (avoirdupois) fuerza pulgada",
+"M92","Libra fuerza pie","Producto de la unidad libra fuerza, de acuerdo con el sistema de unidades Anglo-Americano, y la unidad pie, de acuerdo con el sistema de unidades, Anglo-Americano y el sistema imperial de unidades."
+"M95","Poundal pie","Producto de la unidad poundal, no conforme al sistema internacional de unidades, y la unidad pie, de acuerdo con el sistema de unidades Anglo-Americano y el sistema imperial."
+"M96","Poundal pulgada","Producto de la unidad poundal, no conforme al sistema internacional de unidades, y la unidad pulgada, de acuerdo con el sistema de unidades Anglo-Americano y el sistema imperial."
+"M97","Dina metro","CGS (Centímetro-Gramo-Segundo sistema) unidad del momento de rotación."
+"C57","Newton segundo",
+"C53","Newton metro segundo",
+"74","Milipascal",
+"MPA","Megapascal",
+"PAL","Pascal","Es la presión uniforme que, actuando sobre una superficie plana de 1 metro cuadrado, ejerce perpendicularmente a esta superficie una fuerza total de 1 newton. "
+"KPA","Kilopascal",
+"BAR","Bar [unidad de presión]","Se denomina bar a una unidad de presión equivalente a un millón de barias, aproximadamente igual a una atmósfera (1 atm). Su símbolo es «bar»."
+"HBA","Hectobar ",
+"MBR","Milibar",
+"KBA","Kilobar",
+"ATM","Atmósfera estándar","Es un modelo de la atmósfera terrestre que permite obtener los valores de presión, temperatura, densidad y viscosidad del aire en función de la altitud. Su función es proporcionar un marco de referencia invariante para la navegación aérea y para la realiz"
+"A89","Gigapascal",
+"B96","Micropascal",
+"A97","Hectopascal",
+"H75","Decapascal",
+"B85","Microbar",
+"C55","Newton por metro cuadrado",
+"C56","Newton por milimetro cuadrado",
+"H07","Pascal segundo por bar",
+"F94","Hectopascal metro cúbico por segundo",
+"F93","Hectopascal litro por segundo",
+"F82","Hectopascal por kelvin",
+"F83","Kilopascal por kelvin",
+"F98","Megapascal metro cúbico por segundo",
+"F97","Megapascal litro por segundo",
+"F85","Megapascal por kelvin",
+"F96","Milibar metro cúbico por segundo",
+"F95","Milibar litro por segundo",
+"F84","Milibar por kelvin",
+"G01","Pascal metro cúbico por segundo",
+"F99","Pascal litro por segundo",
+"F77","Pascal segundo por kelvin",
+"E01","Newton por centímetro cuadrado","Medida de la presión expresada en newtons por centímetro cuadrado"
+"FP","Libra por pie cuadrado",
+"PS","Libra fuerza por pulgada cuadrada",
+"80","Libra por pulgada cuadrado absoluta",
+"F79","Pulgada de mercurio",
+"F78","Pulgada de agua",
+"K31","Gramo-fuerza por centímetro cuadrado",
+"E42","Kilogramo-fuerza por centímetro cuadrado",
+"E41","Kilogramo-fuerza por milímetro cuadrado",
+"K85","Libra-fuerza por pie cuadrado",
+"K86","Libra-fuerza por pulgada cuadrada grados fahrenheit",
+"N13","Centímetro de mercurio (0°)","Unidad de presión no conforme al sistema internacional, en la cuál el valor de 1 cmHg cumple con la presión estática, que es generada por un mercurio a una temperatura de 0 ° C con una altura de 1 centímetro."
+"N14","Centímetro de agua (4°)","Unidad de presión no conforme al sistema internacional, en la cuál el valor de 1 cmH2O cumple con la presión estática, que es generada por una cabeza de agua a una temperatura de 4 ° C con una altura de 1 centímetro."
+"N15","Pie de agua (39.2 °f)","Unidad de presión no conforme al sistema internacional, de acuerdo con el sistema Anglo-Americano e Imperial para unidades, mientras que el valor de 1 ft H2O es equivalente a la presión estática, que es generada por una cabeza de agua a una temperatura de"
+"N16","Pulgada de mercurio (32 °f)","Unidad de presión no conforme al sistema internacional, de acuerdo con el sistema Anglo-American e Imperial para unidades, mientras que el valor de 1 inHg cumple con la presión estática, que es generada por un mercurio a una temperatura de 32 ° F con una "
+"N17","Pulgada de mercurio (60 °f)","Unidad de presión no conforme al sistema internacional sino según al sistema Anglo-Americano e Imperial para unidades, mientras que el valor de 1 in Hg satisface la presión estática, que es generada por un mercurio a una temperatura de 60 ° F con una altu"
+"N18","Pulgada de agua (39.2 °f)","Unidad de presión no conforme al sistema internacional sino de acuerdo con el sistema Anglo-Americano e Imperial para unidades, mientras que el valor de 1 inH2O satisface la presión estática, que es generada por una cabeza de agua a una temperatura de 39,"
+"N19","Pulgada de agua (60 °f)","Unidad de presión no conforme al sistema internacional sino según al sistema Anglo-Americano e Imperial para unidades, mientras que el valor de 1 inH2O satisface la presión estática, que es generada por una cabeza de agua a una temperatura de 60 ° F con u"
+"N20","Kip por pulgada cuadrada","Unidad de presión no conforme al sistema internacional de unidades sino de acuerdo con el sistema Anglo-Americano de unidades como el 1000 veces de la unidad de fuerza de libra fuerza dividida por la potencia de la unidad de pulgada por el exponente 2."
+"N21","Poundal por pie cuadrado","Unidad de presión no conforme al sistema internacional según el sistema Imperial de unidades según NIST: 1 pdl / ft² = 1,488 164 Pa."
+"N22","Onza (avoirdupois) por pulgada cuadrada","Unidad de la masa específica de la superficie (onza de avoirdupois según el sistema del avoirdupois de unidades según la superficie pulgada cuadrada según el sistema Anglo-Americano e imperial de unidades)."
+"N23","Metro convencional de agua","No es una unidad de presión del sistema internacional, mientras que un valor de 1 mH2O es equivalente a la presión estática, que es producida por una columna de agua de un metro de alto."
+"N24","Gramo por milímetro cuadrado","0.001 veces el kilo de unidad de basedel sistema internacional dividido por el 0,000 001 veces de la potencia del medidor de unidad de base del sistema internacional por el exponente 2."
+"N25","Libra por yarda cuadrada","Unidad para la masa relacionada con el área como una unidad de la libra según el sistema de la unidad del avoirdupois dividido por la potencia del patio de la unidad según el sistema Anglo-Americano e imperial de unidades con el exponente 2."
+"N26","Poundal por pulgada cuadrada","Unidad de presión no conforme al sistema internacional sino según el sistema Imperial de unidades (poundal por pulgada cuadrada)."
+"E99","Hectopascal por bar",
+"F05","Megapascal por bar",
+"F04","Milibar por bar",
+"F07","Pascal por bar",
+"F03","Kilopascal por bar",
+"L52","Libra.fuerza por pulgada cuadrada por libra fuerza por pulgada cuadrada",
+"J56","Bar por bar",
+"C96","Pascal recíproco o pascal a la potencia menos 1 ",
+"F58","Bar recíproco",
+"B83","Metro a la cuarta potencia",
+"G77","Milímetro a la cuarta potencia ",
+"D69","Pulgada a la cuarta potencia",
+"N27","Pie a la cuarta potencia ","Potencia de la unidad pie, de acuerdo con el sistema Anglo-Americano e Imperial de unidades, elevado al exponente 4 de acuerdo con NIST: 1 ft4 = 8,630 975 m4."
+"C65","Pascal segundo","Es la viscosidad dinámica de un fluido homogéneo, en el cual, el movimiento rectilíneo y uniforme de una superficie plana de 1 metro cuadrado, da lugar a una fuerza retardatriz de 1 newton, cuando hay una diferencia de velocidad de 1 metro por segundo ent"
+"N37","Kilogramo por metro segundo","Unida de la viscosidad dinámica como un cociente de la unidad kilogramo del sistema internacional entre la unidad metro y por segundo del sistema internacional de unidades."
+"N38","Kilogramo por metro minuto","Unida de la viscosidad dinámica como un cociente de la unidad kilogramo del sistema internacional entre la unidad metro y por minuto del sistema internacional de unidades."
+"C24","Milipascal segundo",
+"N36","Newton segundo por metro cuadrado","Unidad de la viscosidad dinámica como un producto de la unidad de la presión (newton por metro cuadrado) multiplicado con la unidad de base SI segundo."
+"N39","Kilogramo por metro día","Unidad de la viscosidad dinámica como un cociente de unidad base kilogramo dividido por la unidad base metro y por la unidad de día, ambas del sistema internacional. "
+"N40","Kilogramo por metro hora","Unidad de la viscosidad dinámica como cociente de la unidad base kilogramo dividido por la unidad base metro y por unidad de hora, ambas del sistema internacional."
+"N41","Gramo por centímetro segundo","Unidad de la viscosidad dinámica como un cociente del 0,001 veces de la unidad base kilogramo dividido por el 0,01 veces de la unidad base metro y la unidad base segundo, del sistema internacional de unidades."
+"89","Poise","El poise (símbolo: P) es la unidad de viscosidad dinámica del sistema cegesimal de unidades."
+"C7","Centipoise",
+"F06","Poise por bar",
+"F86","Poise por kelvin",
+"J32","Micropoise",
+"J73","Centipoise por kelvin",
+"J74","Centipoise por bar",
+"K67","Libra por pie hora",
+"K68","Libra por pie segundo",
+"K91","Libra-fuerza segundo por pie cuadrado",
+"K92","Libra-fuerza segundo por pulgada cuadrada",
+"L15","Milipascal segundo por kelvin",
+"L16","Milipascal segundo por bar",
+"L64","Slug por pie segundo",
+"N34","Poundal segundo por pie cuadrado","Unidad de viscosidad no conforme al sistema internacional."
+"N35","Poise por pascal","CGS (Centímetro-Gramo-Segundo sistema) unidad poise dividido por la unidad derivada del sistema internacional, pascal."
+"N42","Poundal segundo por pulgada cuadrada","Unidad de viscosidad dinámica no conforme al sistema internacional sino según el sistema Imperial de unidades, como producto de la  unidad de presión (poundal por pulgada cuadrada) multiplicada por la unidad base segundo, del sistema internacional de unid"
+"N43","Libra por pie minuto","Unidad de la viscosidad dinámica según el sistema Anglo-Americano de unidades."
+"N44","Libra por pie día","Unidad de la viscosidad dinámica según el sistema Anglo-Americano de unidades."
+"S4","Metro cuadrado por segundo","Sinónimo: metro cuadrado por segundo"
+"M82","Metro cuadrado por segundo pascal","Potencia de la unidad base, metro, del sistema internacional con el exponente 2, dividido por la unidad base, segundo, y la unidad derivada, pascal, ambas del sistema internacional."
+"C17","Milímetro cuadrado por segundo",
+"G41","Metro cuadrado por segundo bar",
+"G09","Metro cuadrado por segundo kelvin",
+"91","Stokes","El Stokes es la unidad de viscosidad cinemática en el Sistema Cegesimal de Unidades"
+"4C","Centistokes",
+"G46","Stokes por bar",
+"G10","Stokes por kelvin",
+"S3","Pie cuadrado por segundo","Sinónimo: pie cuadrado por segundo"
+"G08","Pulgada cuadrada por segundo",
+"M79","Pie cuadrado por hora","Potencia de la unidad pie, de acuerdo con el sistema Anglo-Americano e Imperial de unidades, elevado al exponente 2 y dividido por la unidad derivada pascal del sistema internacional de unidades."
+"M80","Stokes por pascal","CGS (Centímetro-Gramo-Segundo sistema) unidad stokes dividido por la unidad derivada del sistema internacional, pascal."
+"M81","Centímetro cuadrado por segundo",
+"4P","Newton por metro",
+"C22","Milinewton por metro",
+"M23","Newton por centímetro",
+"N31","Kilonewton por metro","1000 veces de la unidad derivada newton dividido por el metro, ambas unidades del sistema internacional."
+"N32","Poundal por pulgada","Unidad de tensión superficial de acuerdo con el sistema de unidad Imperial como cociente de poundal por pulgada."
+"N33","Libra-fuerza por yarda","Unidad de fuerza por unidad de longitud basado en el sistema Anglo-Americano de unidades."
+"M34","Newton metro por metro cuadrado",
+"JOU","Joule","Es el trabajo producido por una fuerza de 1 newton, cuyo punto de aplicación se desplaza 1 metro en la dirección de la fuerza. "
+"KJO","Kilojoule",
+"A68","Exajoule",
+"C68","Petajoule",
+"D30","Terajoule",
+"GV","Gigajoule",
+"3B","Megajoule",
+"C15","Milijoule",
+"A70","Femtojoule",
+"A13","Attojoule"," Una unidad SI de la energía, el trabajo, y el calor igual a 10 -18 joules"
+"WHR","Watt hora",
+"MWH","Megawatt hora","Unidad de potencia que define la cantidad total de energía a granel transferida o consumida."
+"KWH","Kilowatt hora",
+"GWH","Gigawatt hora",
+"D32","Terawatt hora ",
+"A53","Electrónvolt",
+"B71","Megaelectrónvolt",
+"A85","Gigaelectrónvolt",
+"B29","Kiloelectrónvolt",
+"85","Pie libra-fuerza",
+"N46","Pie poundal","Unidad de trabajo (trayectoria de fuerza)"
+"N47","Pulgada poundal","Unidad de trabajo (fuerza multiplicado por trayectoria) de acuerdo con el sistema imperial de unidades como el producto de la unidad pulgada multiplicada por el poundal."
+"WTT","Watt","Es la potencia que da lugar a una producción de energía igual a 1 joule por segundo. "
+"KWT","Kilowatt",
+"MAW","Megawatt","Unidad de potencia que define la tasa de energía transferida o consumida cuando una corriente de 1000 amperes fluye debido a un potencial de 1000 volts al factor de potencia unitario."
+"A90","Gigawatt",
+"C31","Miliwatt",
+"D80","Microwatt",
+"F80","Caballos de fuerza de agua","Define la cantidad de potencia requerida para mover un volumen dado de agua contra la aceleración de la gravedad a una elevación especificada (cabezal de presión)."
+"A74","Pie libra-fuerza por segundo",
+"BHP","Potencia al freno",
+"K15","Pie libra-fuerza por hora",
+"K16","Pie libra-fuerza por minuto",
+"K42","Caballo de fuerza de caldera ","Es la cantidad de energía requerida para producir 34,5 libras (15,65 kg) de vapor por hora a presión y temperatura 0 psig (0 bar) y 212 o F (100 o C) - con agua de alimentación a presión 0 psig y la temperatura 212 o F."
+"N12","Pferdestaerke","Unidad obsoleta de la potencia relativa a DIN 1301-3: 1979: 1 PS = 735.498 75 W."
+"KGS","Kilogramo por segundo",
+"H56","Kilogramo por metro cuadrado segundo",
+"M87","Kilogramo por segundo pascal","Es la unidad base kilogramo dividido por el producto de la unidad base segundo y la derivada de la unidad pascal."
+"4M","Miligramo por hora",
+"F26","Gramo por día",
+"F62","Gramo por día bar",
+"F35","Gramo por día kelvin",
+"F27","Gramo por hora",
+"F63","Gramo por hora bar",
+"F36","Gramo por hora kelvin",
+"F28","Gramo por minuto",
+"F64","Gramo por minuto bar",
+"F37","Gramo por minuto kelvin",
+"F29","Gramo por segundo",
+"F65","Gramo por segundo bar",
+"F38","Gramo por segundo kelvin",
+"F30","Kilogramo por día",
+"F66","Kililogramo por día bar",
+"F39","Kilogramo por día kelvin",
+"E93","Kilogramo por hora",
+"F67","Kilogramo por hora bar",
+"F40","Kilogramo por hora kelvin",
+"F31","Kilogramo por minuto",
+"F68","Kilogramo por minuto bar",
+"F41","Kilogramo por minuto kelvin",
+"F69","Kilogramo por segundo bar",
+"F42","Kilogramo por segundo kelvin",
+"F32","Miligramo por dia",
+"F70","Miligramo por día bar",
+"F43","Miligramo por día kelvin",
+"F71","Miligramo por hora bar",
+"F44","Miligramo por hora kelvin",
+"F33","Miligramo por minuto",
+"F72","Miligramo por minuto bar",
+"F45","Miligramo por minuto kelvin",
+"F34","Miligramo por segundo",
+"F73","Miligramo por segundo bar",
+"F46","Miligramo por segundo kelvin",
+"F25","Gramo por hertz",
+"4W","Tonelada por hora",
+"4U","Libra por hora",
+"K66","Libra (avoirdupois) por día",
+"K73","Libra (avoirdupois) por hora grados fahrenheit",
+"K74","Libra (avoirdupois) por hora libra-fuerza por pulgada cuadrada",
+"K78","Libra (avoirdupois) por minuto",
+"K79","Libra (avoirdupois) por minuto grados fahrenheit",
+"K80","Libra (avoirdupois) por minuto libra-fuerza por pulgada cuadrada",
+"K81","Libra (avoirdupois) por segundo",
+"K82","Libra (avoirdupois)por segundo grados fahrenheit",
+"K83","Libra (avoirdupois) por segundo libra-fuerza por pulgada cuadrada",
+"L33","Onza (avoirdupois) por día",
+"L34","Onza (avoirdupois) por hora",
+"L35","Onza (avoirdupois) por minuto",
+"L36","Onza (avoirdupois) por segundo",
+"L63","Slug por día",
+"L66","Slug por hora",
+"L67","Slug por minuto",
+"L68","Slug por segundo",
+"L71","Tonelada por día",
+"L72","Tonelada por día kelvin",
+"L73","Tonelada por día bar",
+"E18","Tonelada por hora","Una unidad de peso o masa equivalente a una tonelada métrica por hora."
+"L74","Tonelada por hora kelvin",
+"L75","Tonelada por hora bar",
+"L78","Tonelada por minuto",
+"L79","Tonelada por minuto kelvin",
+"L80","Tonelada por minuto bar",
+"L81","Tonelada por segundo",
+"L82","Tonelada por segundo kelvin",
+"L83","Tonelada por segundo bar",
+"L85","Tonelada larga por día",
+"L88","Tonelada corta por día",
+"L89","Tonelada corta por hora grados fahrenheit",
+"L90","Tonelada corta por hora libra-fuerza por pulgada cuadrada",
+"M88","Tonelada por mes","Unidad tonelada métrica dividida por la unidad mes"
+"M89","Tonelada por año","Unidad tonelada métrica dividida por la unidad año con 365 días"
+"M90","Kilolibra por hora","1000 veces la unidad de la masa libra avoirdupois de acuerdo con el sistema unitario avoirdupois dividido por la unidad de hora."
+"J33","Microgramo por kilogramo",
+"L32","Nanogramo por kilogramo",
+"NA","Miligramo por kilogramo",
+"M29","Kilogramo por kilogramo",
+"M91","Libra por libra","Proporción de la masa consistente en la libra avoirdupois según el sistema unitario avoirdupois dividido por la libra avoirdupois según el sistema unitario avoirdupois."
+"MQS","Metro cúbico por segundo",
+"MQH","Metro cúbico por hora",
+"40","Mililitro por segundo",
+"41","Mililitro por minuto",
+"LD","Litro por día",
+"2J","Centímetro cúbico por segundo",
+"4X","Kilolitro por hora",
+"L2","Litro por minuto",
+"G47","Centímetro cúbico por día",
+"G78","Centímetro cúbico por día bar",
+"G61","Centímetro cúbico por día kelvin",
+"G48","Centímetro cúbico por hora",
+"G79","Centímetro cúbico por hora bar",
+"G62","Centímetro cúbico por hora kelvin",
+"G49","Centímetro cúbico por minuto",
+"G80","Centímetro cúbico por minuto bar",
+"G63","Centímetro cúbico por minuto kelvin",
+"G81","Centímetro cúbico por segundo bar",
+"G64","Centímetro cúbico por segundo kelvin",
+"E92","Decímetro cúbico por hora",
+"G52","Metro cúbico por día",
+"G86","Metro cúbico por día bar",
+"G69","Metro cúbico por día kelvin",
+"G87","Metro cúbico por hora bar",
+"G70","Metro cúbico por hora kelvin",
+"G53","Metro cúbico por minuto",
+"G88","Metro cúbico por minuto bar",
+"G71","Metro cúbico por minuto kelvin",
+"G89","Metro cúbico por segundo bar",
+"G72","Metro cúbico por segundo kelvin",
+"G82","Litro por día bar",
+"G65","Litro por día kelvin",
+"G83","Litro por hora bar",
+"G66","Litro por hora kelvin",
+"G84","Litro por minuto bar",
+"G67","Litro por minuto kelvin",
+"G51","Litro por segundo",
+"G85","Litro por segundo bar",
+"G68","Litro por segundo kelvin",
+"G54","Mililitro por día",
+"G90","Mililitro por día bar",
+"G73","Mililitro por día kelvin",
+"G55","Mililitro por hora",
+"G91","Mililitro por hora bar",
+"G74","Mililitro por hora kelvin",
+"G92","Mililitro por minuto bar",
+"G75","Mililitro por minuto kelvin",
+"G93","Mililitro por segundo bar",
+"G76","Mililitro por segundo kelvin",
+"2K","Pie cúbico por hora",
+"2L","Pie cúbico por minuto",
+"5A","Barril por minuto",
+"G2","Galón por minuto",
+"G3","Galón por minuto",
+"G56","Pulgada cúbica por hora",
+"G57","Pulgada cúbica por minuto",
+"G58","Pulgada cúbica por segundo",
+"G50","Galón por hora",
+"J58","Barril (petróleo reino unido) por minuto",
+"J59","Barril (petróleo reino unido) por día",
+"J60","Barril (petróleo reino unido) por hora",
+"J61","Barril (petróleo reino unido) por segundo",
+"J62","Barril (petróleo estados unidos) por hora",
+"J63","Barril (petróleo estados unidos) por segundo",
+"J64","Bushel (reino unido) por día ",
+"J65","Bushel (reino unido) por hora",
+"J66","Bushel (reino unido) por minuto",
+"J67","Bushel (reino unido) por segundo",
+"J68","Bushel (seco,estados unidos) por día",
+"J69","Bushel (seco,estados unidos) por hora",
+"J70","Bushel (seco,estados unidos) por minuto",
+"J71","Bushel (seco,estados unidos) por segundo",
+"J90","Decímetro cúbico por día",
+"J92","Decímetro cúbico por minuto",
+"J93","Decímetro cúbico por segundo",
+"N45","Metro cúbico por segundo pascal","Potencia de la unidad metro del sistema internacional por el exponente 3 dividido por el producto de la unidad base segundo y la unidad derivada pascal, ambas del sistema internacional de unidades."
+"J95","Onza (fluido, reino unido) por día",
+"J96","Onza (fluido, reino unido) por hora",
+"J97","Onza (fluido, reino unido) por minuto",
+"J98","Onza (fluido, reino unido) por segundo",
+"J99","Onza (fluido, estados unidos) por día",
+"K10","Onza (fluido, estados unidos) por hora",
+"K11","Onza (fluido, estados unidos) por minuto",
+"K12","Onza (fluido, estados unidos) por segundo",
+"K22","Pie cúbico por día",
+"K26","Galón (reino unido) por día",
+"K27","Galón (reino unido) por hora",
+"K28","Galón (reino unido) por segundo",
+"K30","Galón (líquido, estados unidos) por segundo",
+"K32","Gill (reino unido) por día","Gill es una unidad de volumen inglesa en el sistema imperial y en los Estados Unidos. La versión imperial usada en el Reino Unido es de 5 onzas líquidas, y es equivalente a 142,0653125 ml; mientras que en los EE.UU. es de 4 onzas líquidas, y es equivalent"
+"K33","Gill (reino unido) por hora",
+"K34","Gill (reino unido) por minuto",
+"K35","Gill (reino unido) por segundo",
+"K36","Gill (estados unidos) por día",
+"K37","Gill (estados unidos) por hora",
+"K38","Gill (estados unidos) por minuto",
+"K39","Gill (estados unidos) por segundo",
+"K94","Cuarto (líquido, reino unido) por día",
+"K95","Cuarto (líquido, reino unido) por hora",
+"K96","Cuarto (líquido, reino unido) por minuto",
+"K97","Cuarto (líquido, reino unido) por segundo",
+"K98","Cuarto (líquido, estados unidos) por día",
+"K99","Cuarto (líquido, estados unidos) por hora",
+"L10","Cuarto (líquido, estados unidos) por minuto",
+"L11","Cuarto (líquido, estados unidos) por segundo",
+"L44","Peck (reino unido) por día",
+"L45","Peck (reino unido) por hora",
+"L46","Peck (reino unido) por minuto",
+"L47","Peck (reino unido) por segundo",
+"L48","Peck (seco, estados unidos) por día",
+"L49","Peck (seco, estados unidos) por hora",
+"L50","Peck (seco, estados unidos) por minuto",
+"L51","Peck (seco, estados unidos) por segundo",
+"L53","Pinta (reino unido) por día",
+"L54","Pinta (reino unido) por hora",
+"L55","Pinta (reino unido) por minuto",
+"L56","Pinta (reino unido) por segundo",
+"L57","Pinta (líquido, estados unidos) por día",
+"L58","Pinta (líquido, estados unidos) por hora",
+"L59","Pinta (líquido, estados unidos) por minuto",
+"L60","Pinta (líquido, estados unidos) por segundo",
+"M12","Yarda cúbica por día",
+"M13","Yarda cúbica por hora ",
+"M15","Yarda cúbica por minuto",
+"M16","Yarda cúbica por segundo",
+"H60","Metro cúbico por metro cúbico",
+"F92","Bar metro cúbico por segundo",
+"F91","Bar litro por segundo",
+"K87","Libra-fuerza por pulgada cuadrada pulgada cúbica por segundo",
+"K88","Libra-fuerza por pulgada cuadrada litro por segundo",
+"K89","Libra-fuerza por pulgada cuadrada metro cúbico por segundo",
+"K90","Libra-fuerza por pulgada cuadrada yarda cúbica por segundo",
+"Q29","Microgramo por hectogramo","microgramo por hectogramo"
+"Q37","Metro cúbico estándar por día","Metro cúbico estándar (temperatura 15 ° C y presión 101325 milibares) por día"
+"Q38","Metro cúbico estándar por hora","Metro cúbico estándar (temperatura 15 ° C y presión 101325 milibares) por día"
+"Q39","Metro cúbico normalizado por día","Metro cúbico estándar (temperatura 0° C y presión 101325 milibares) por día"
+"Q40","Metro cúbico normalizado por hora","Metro cúbico estándar (temperatura 0° C y presión 101325 milibares) por día"
+"KWN","Kilowatt hora por metro cúbico normalizado","Kilowatt hora por metro cúbico normalizado (temperatura 0 ° C y presión 101325 milibares)."
+"KWS","Kilowatt hora por metro cúbico estándar","Kilowatt hora por metro cúbico normalizado (temperatura 15 ° C y presión 101325 milibares)."
+"Q41","Joule por metro cúbico normalizado","Joule por metro cúbico normalizado (temperatura 0 ° C y presión 101325 milibares)."
+"Q42","Joule por metro cúbico estándar","Joule por metro cúbico normalizado (temperatura 15 ° C y presión 101325 milibares)."
+"KEL","Kelvin","Unidad de temperatura termodinámica, es la fracción 1/273,16 de la temperatura termodinámica del punto triple del agua. "
+"CEL","Grados celsius","Consulte ISO 80000-5 (Cantidades y unidades - Parte 5: Termodinámica)"
+"H12","Grado celsius por hora",
+"F60","Grado celsius por bar",
+"E98","Grado celsius por kelvin",
+"H13","Grado celsius por minuto",
+"H14","Grado celsius por segundo",
+"F61","Kelvin por bar",
+"F10","Kelvin por hora",
+"F02","Kelvin por kelvin",
+"F11","Kelvin por minuto",
+"F12","Kelvin por segundo",
+"N79","Kelvin por pascal","Unidad base del sistema internacional kelvin, dividido entre pascal, unidad base del sistema internacional"
+"J20","Grado fahrenheit por kelvin",
+"J21","Grado fahrenheit por bar",
+"J26","Recíproco de grado fahrenheit",
+"A48","Grado rankine","Consulte ISO 80000-5 (Cantidades y unidades - Parte 5: Termodinámica)"
+"FAH","Grado fahrenheit","Consulte ISO 80000-5 (Cantidades y unidades - Parte 5: Termodinámica)"
+"J23","Grado fahrenheit por hora",
+"J24","Grado fahrenheit por minuto",
+"J25","Grado fahrenheit por segundo",
+"J28","Grado rankine por hora",
+"J29","Grado rankine por minuto",
+"J30","Grado rankine por segundo",
+"C91","Recíproco de kelvin ó kelvin a la potencia menos 1",
+"M20","Recíproco de megakelvin ó megakelvin a la potencia menos 1",
+"C64","Pascal por kelvin",
+"F81","Bar por kelvin",
+"J55","Watt segundo",
+"BTU","Unidad térmica británica (tabla internacional)",
+"J39","Unidad térmica británica (significado)",
+"J75","Caloría","Unidad de energía térmica, de símbolo cal, que equivale a la cantidad de calor necesaria para elevar 1 grado centígrado la temperatura de 1 gramo de agua."
+"K51","Kilocaloría (significado)",
+"E14","Kilocaloría (tabla internacional)",
+"K53","Kilocaloría (termoquímico)",
+"N66","Unidad térmica británica (39 °f)","Unidad de energía térmica según el sistema Imperial de unidades en una temperatura de referencia de 39 ° F."
+"N67","Unidad térmica británica (59 °f)","Unidad de energía térmica según el sistema Imperial de unidades en una temperatura de referencia de 59 ° F."
+"N68","Unidad térmica británica (60 °f)","Unidad de energía térmica según el sistema Imperial de unidades en una temperatura de referencia de 60 ° F."
+"N69","Caloría (20 °c)","Unidad para la cantidad de calor, que se requiere para que 1g de agua libre de aire a una presión constante de 101.325 kPa, se caliente a la presión de la atmósfera estándar a nivel del mar, de 19,5 ° C a 20,5 ° C."
+"N70","Quad","Unidad de energía de acuerdo al sistema imperial de unidades"
+"N71","Termia (energía comercial)","Unidad de energía calorífica en uso comercial, dentro de Estados Unidos definida como: 1 thm (EC) = 100 000 BtuIT."
+"N72","Termia (estado unidos)","Unidad de energía térmica en uso comercial."
+"2I","Unidad térmica británica (tabla internacional) por hora",
+"J44","Unidad térmica británica (tabla internacional) por minuto",
+"J45","Unidad térmica británica (tabla internacional) por segundo",
+"J47","Unidad térmica británica (termoquímica) por hora",
+"J51","Unidad térmica británica (termoquímica) por minuto",
+"J52","Unidad térmica británica (termoquímica) por segundo",
+"J81","Caloría (termoquímica) por minuto",
+"J82","Caloría (termoquímica) por segundo",
+"E15","Kilocaloría (termoquímica) por hora",
+"K54","Kilocaloría (termoquímica) por minuto",
+"K55","Kilocaloría (termoquímica) por segundo",
+"D54","Watt por metro cuadrado",
+"N48","Watt por centímetro cuadrado","Unidad derivada del sistema internacional, watt, dividido por la potencia de la 0.01 parte de la unidad base del sistema internacional, metro al exponente 2."
+"N49","Watt por pulgada cuadrada","Unidad derivada del sistema internacional, watt, dividido por la potencia de la unidad pulgada al exponente 2, de acuerdo al sistema de unidades Anglo-Americano y el sistema imperial de unidades."
+"N50","Unidad térmica británica (tabla internacional) por pie cuadrado hora.","Unidad del flujo superficial de calor según el sistema Imperial de unidades."
+"N51","Unidad térmica británica (termoquímica) por pie cuadrado hora.","Unidad del flujo superficial de calor según el sistema Imperial de unidades."
+"N52","Unidad térmica británica (termoquímico) por pie cuadrado minuto.","Unidad del flujo superficial de calor según el sistema Imperial de unidades."
+"N53","Unidad térmica británica (tabla internacional) por pie cuadrado segundo.","Unidad del flujo superficial de calor según el sistema Imperial de unidades."
+"N54","Unidad térmica británica (termoquímica) por pie cuadrado segundo.","Unidad del flujo superficial de calor según el sistema Imperial de unidades."
+"N55","Unidad térmica británica (tabla internacional) por pulgada cuadrada segundo.","Unidad del flujo superficial de calor según el sistema Imperial de unidades."
+"N56","Caloría (termoquímica) por centímetro cuadrado minuto","Unidad del flujo superficial de calor según el sistema Imperial de unidades."
+"N57","Caloría (termoquímica) por centímetro cuadrado segundo","Unidad del flujo superficial de calor según el sistema Imperial de unidades."
+"D53","Watt por metro kelvin","Es la conductividad térmica de un cuerpo homogéneo isótropo, en la que una diferencia de temperatura de 1 kelvin entre dos planos paralelos, de área 1 metro cuadrado y distantes 1 metro, produce entre estos planos un flujo térmico de 1 watt."
+"N80","Watt por metro grado celsius","Unidad derivada del sistema internacional, watt, dividido por el producto de la unidad base, metro, y la unidad de temperatura grados Celsius."
+"N81","Kilowatt por metro kelvin","1000 veces de la unidad derivada, watt, dividido por el producto de la unidad de base metro y la unidad base kelvin, ambas del sistema internacional."
+"N82","Kilowatt por metro grado celsius","1000 veces de la unidad derivada, watt, dividido por el producto de la unidad base metro y la unidad de temperatura grados Celsius."
+"A22","Unidad térmica británica (tabla internacional) por segundo pie grado rankine",
+"J40","Unidad térmica británica (tabla internacional) pie por hora pie cuadrado grado fahrenheit.",
+"J41","Unidad térmica británica (tabla internacional) pulgada por hora pie cuadrado grado fahrenheit.",
+"J42","Unidad térmica británica (tabla internacional) pulgada por segundo pie cuadrado grado fahrenheit.",
+"J46","Unidad térmica británica (termoquímico) pie por hora pie cuadrado grado fahrenheit.",
+"J48","Unidad térmica británica (termoquímico) pulgada por hora pie cuadrado grado fahrenheit.",
+"J49","Unidad térmica británica (termoquímico) pulgada por segundo pie cuadrado grado fahrenheit.",
+"J78","Caloría (termoquímica) por centímetro segundo grado celsius",
+"K52","Kilocaloría (tabla internacional) por hora metro grado celsius",
+"D55","Watt por metro cuadrado kelvin",
+"N78","Kilowatt por metro cuadrado kelvin","1000 veces la unidad derivada watt, dividida por el producto de la potencia de unidad base, metro, por el exponente 2 y la unidad base, kelvin, del sistema internacional de unidades."
+"A20","Unidad térmica británica (tabla internacional) por segundo pie cuadrado grado rankine.",
+"A23","Unidad térmica británica (tabla internacional) por hora pie cuadrado grado rankine.",
+"N74","Unidad térmica británica (tabla internacional) por hora pie cuadrado grado fahrenheit.","Unidad del coeficiente de transición térmica según el sistema Imperial de unidades."
+"N75","Unidad térmica británica (termoquímico) por hora pie cuadrado grado farenheit.","Unidad del coeficiente de transición térmica según el sistema imperial de unidades."
+"N76","Unidad térmica británica (tabla internacional) por segundo pie cuadrado grado fahrenheit.","Unidad del coeficiente de transición térmica según el sistema imperial de unidades."
+"N77","Unidad térmica británica (termoquímico) por segundo pie cuadrado grado fahrenheit.","Unidad del coeficiente de transición térmica según el sistema imperial de unidades."
+"D19","Metro cuadrado kelvin por watt.",
+"J19","Grado fahrenheit hora pie cuadrado por unidad térmica británica (termoquímico).",
+"J22","Grado fahrenheit hora pie cuadrado por unidad térmica británica (tabla internacional).",
+"J83","Clo","Clo es una unidad de medida empleada para el índice de indumento."
+"L14","Metro cuadrado hora grado celsius por kilocaloría (tabla internacional)",
+"B21","Kelvin por watt",
+"H35","Kelvin metro por watt",
+"N84","Grado fahrenheit hora por unidad térmica británica (tabla internacional)","Unidad no conforme al sistema internacional de unidades,de la resistencia térmica según el sistema Imperial de unidades."
+"N85","Grado fahrenheit hora por unidad térmica británica (termoquímico)","Unidad no conforme al sistema internacional de unidades,de la resistencia térmica según el sistema Imperial de unidades."
+"N86","Grado fahrenheit segundo por unidad térmica británica (tabla internacional)","Unidad no conforme al sistema internacional de unidades,de la resistencia térmica según el sistema Imperial de unidades."
+"N87","Grago fahrenheit segundo por unidad térmica británica (termoquímico)","Unidad no conforme al sistema internacional de unidades,de la resistencia térmica según el sistema Imperial de unidades."
+"N88","Grado fahrenheit hora pie cuadrado por unidad térmica británica (tabla internacional) pulgada","Unidad de resistencia térmica específica según el sistema Imperial de unidades"
+"N89","Grado fahrenheit hora pie cuadrado por unidad térmica británica (termoquímico) pulgada.","Unidad de resistencia térmica específica según el sistema Imperial de unidades"
+"D52","Watt por kelvin",
+"E97","Mililitro por gadro celsius metro",
+"F53","Mililitro por kelvin",
+"N83","Metro por grado celsius metro",
+"JE","Joule por kelvin","Es el aumento de entropía de un sistema que recibe una cantidad de calor de 1 joule, a la temperatura termodinámica constante de 1 kelvin, siempre que en el sistema no tenga lugar ninguna transformación irreversible."
+"B41","Kilojoule por kelvin",
+"J43","Unidad térmica británica (tabla internacional) por libra grado fahrenheit",
+"J50","Unidad térmica británica (termoquímico) por libra grado fahrenheit",
+"J76","Caloría (tabla internacional) por gramo gadro celsius",
+"J79","Caloría (termoquímico) por gramo gadro celsius",
+"N60","Unidad térmica británica (tabla internacional) por grado fahrenheit","Unidad de la capacidad calorífica según el sistema Imperial de unidades."
+"N61","Unidad térmica británica (termoquímico) por grado fahrenheit","Unidad de la capacidad calorífica según el sistema Imperial de unidades."
+"N62","Unidad térmica británica (tabla internacional) por grado rankine","Unidad de la capacidad calorífica según el sistema Imperial de unidades."
+"N63","Unidad térmica británica (termoquímico) por grado rankine","Unidad de la capacidad calorífica según el sistema Imperial de unidades."
+"N64","Unidad térmica británica (termoquímico) por libra grado rankine","Unidad de la capacidad calorífica (unidad térmica británica según la tabla internacional según el grado de Rankine) de acuerdo con el sistema Imperial de unidades dividido por la unidad avoirdupois libra según el sistema de avoirdupois de unidades."
+"N65","Kilocaloría (tabla internacional) por gramo kelvin","Unidad de la capacidad calorífica relacionada con la masa como cociente 1000 veces de la caloría (tabla internacional) dividido por el producto de 0,001 veces de las unidades de base kilogramo y kelvin."
+"B11","Joule por kilogramo kelvin","Es la capacidad térmica másica de un cuerpo homogéneo de una masa de 1 kilogramo, en el que el aporte de una cantidad de calor de un joule, produce una elevación de temperatura termodinámica de 1 kelvin. "
+"B43","Kilojoule por kilogramo kelvin",
+"A21","Unidad térmica británica (tabla internacional) por libra grado rankine",
+"J2","Joule por kilogramo",
+"D95","Joule por gramo",
+"JK","Megajoule por kilogramo",
+"B42","Kilojoule por kilogramo",
+"AZ","Unidad térmica británica (tabla internacional) por libra",
+"N73","Unidad térmica británica (termoquímica) por libra","Unidad de la energía calorífica según el sistema imperial de unidades dividió por la unidad de la libra de avoirdupois según el sistema de avoirdupois de unidades."
+"N58","Unidad térmica británica (tabla internacional) por pie cúbico","Unidad de la densidad de energía según el sistema Imperial de unidades."
+"N59","Unidad térmica británica (termoquímica) por pie cúbico","Unidad de la densidad de energía según el sistema Imperial de unidades."
+"Q31","Kilojoule por gramo",
+"AMP","Ampere","Es la intensidad de una corriente constante que manteniéndose en dos conductores paralelos, rectilíneos, de longitud infinita, de sección circular despreciable y situados a una distancia de un metro uno de otro en el vacío, produciría una fuerza igual a 2"
+"B22","Kiloampere",
+"H38","Megaampere",
+"4K","Miliampere",
+"B84","Microampere",
+"C39","Nanoampere",
+"C70","Picoampere",
+"N96","Biot","El Número de Biot (Bi) es un número adimensional utilizado en cálculos de transmisión de calor. Su nombre hace honor al físico francés Jean Baptiste Biot (1774-1862) y relaciona la transferencia de calor por conducción dentro de un cuerpo y la transferenc"
+"N97","Gilbert","CGS (Centímetro-Gram-Segundo sistema) unidad de la fuerza magnetomotriz, que se define por el trabajo para aumentar el potencial magnético de un polo común positivo con 1 erg."
+"COU","Coulomb","Es la cantidad de electricidad transportada en 1 segundo por una corriente de intensidad 1 ampere. "
+"A8","Ampere segundo",
+"H32","Ampere cuadrado segundo","Es una unidad de medida basada en la energía o el calor que se permite pasar a través del fusible o interruptor durante una condición de cortocircuito."
+"AMH","Ampere hora","Unidad de carga electrica definida por la cantidad de carga acumulada por un flujo constante de un ampere por 1 hora. "
+"TAH","Kiloampere hora (mil ampere hora)",
+"D77","Megacoulomb",
+"D86","Milicoulomb",
+"B26","Kilocoulomb",
+"B86","Microcoulomb",
+"C40","Nanocoulomb",
+"C71","Picocoulomb",
+"E09","Miliampere hora","Unidad de carga de potencia entregada a razón de una milésima parte de un amperio durante un período de una hora."
+"N95","Ampere minuto","Unidad de carga eléctrica que define la cantidad de carga acumulada por un flujo constante de un amperio por un minuto."
+"N94","Franklin","CGS (Centímetro-Gram-Segundo sistema) unidad de la carga eléctrica, donde la carga asciende exactamente a 1 franklin donde la fuerza de 1 dina sobre una carga igual se realiza a una distancia de 1 cm."
+"A29","Coulomb por metro cúbico",
+"A84","Gigacoulomb por metro cúbico",
+"A30","Coulomb por milimetro cúbico",
+"B69","Megacoulomb por metro cúbico",
+"A28","Coulomb por centímetro cúbico",
+"B27","Kilocoulomb por metro cúbico",
+"D88","Milicoulomb por metro cúbico",
+"B87","Microcoulomb por metro cúbico",
+"A34","Coulomb por metro cuadrado",
+"B70","Megacoulomb por metro cuadrado",
+"A35","Coulomb por milímetro cuadrado",
+"A33","Coulomb por centímetro cuadrado",
+"B28","Kilocoulomb por metro cuadrado",
+"D89","Milicoulomb por metro cuadrado",
+"B88","Microcoulomb por metro cuadrado",
+"D50","Volt por metro","Es la intensidad de un campo eléctrico, que ejerce una fuerza de 1 newton sobre un cuerpo cargado con una cantidad de electricidad de 1 coulomb."
+"H45","Volt segundo por metro",
+"D45","Volt cuadrado por kelvin cuadrado",
+"D51","Volt por milímetro",
+"H24","Volt por microsegundo",
+"H62","Milivolt por minuto",
+"H46","Volt por segundo",
+"B79","Megavolt por metro",
+"B55","Kilovolt por metro",
+"D47","Volt por centímetro",
+"C30","Milivolt por metro",
+"C3","Microvolts por metro",
+"G60","Volt por bar",
+"N98","Volt por pascal","Unidad derivada del sistema internacional, volt, dividido entre la unidad derivada del sistema internacional, pascal."
+"F87","Volt por litro minuto",
+"H22","Volt pulgada cuadrada por libra fuerza",
+"H23","Volt por pulgada",
+"VLT","Volt","Es la unidad derivada del Sistema Internacional para el potencial eléctrico, la fuerza electromotriz y la tensión eléctrica."
+"B78","Megavolt ",
+"KVT","Kilovolt",
+"2Z","Milivolt",
+"D82","Microvolt",
+"N99","Picovolt","0,000 000 000 001 veces de la unidad derivada del sistema internacional, volt."
+"FAR","Farad","Es la capacidad de un condensador eléctrico que entre sus armaduras aparece una diferencia de potencial eléctrico de 1 volt, cuando está cargado con una cantidad de electricidad igual a 1 coulomb. "
+"H48","Attofaradio",
+"C10","Milifaradio",
+"4O","Microfaradio",
+"C41","Nanofaradio",
+"4T","Picofaradio",
+"N90","Kilofaradio","1000 veces del faradio, unidad derivada del sistema internacional"
+"A69","Faradio por metro",
+"H28","Microfaradio por kilómetro",
+"H33","Faradio por kilómetro",
+"B89","Microfaradio por metro",
+"C42","Nanofaradio por metro",
+"C72","Picofaradio por metro",
+"A26","Coulomb metro",
+"A41","Ampere por metro cuadrado",
+"H31","Ampere por kilogramo",
+"B66","Megaampere por metro cuadrado",
+"A7","Ampere por milímetro cuadrado",
+"A4","Ampere por centímetro cuadrado",
+"B23","Kiloampere por metro cuadrado",
+"G59","Miliampere por litro minuto",
+"N93","Ampere por pascal","Unidad base ampere dividido por la unidad derivada pascal."
+"F57","Miliampere por libra-fuerza por pulgada cuadrada",
+"F59","Miliampere por bar",
+"AE","Ampere por metro","(a veces llamado ampere vuelta por metro) es la unidad SI de la corriente de campo magnético."
+"B24","Kiloampere por metro",
+"A3","Ampere por milímetro",
+"A2","Ampere por centímetro",
+"F76","Miliampere por milímetro",
+"F08","Miliampere por pulgada",
+"P10","Coulomb por metro","Unidad derivada, coulomb dividida por la unidad base, metro."
+"D33","Tesla","Es la inducción magnética uniforme que, repartida normalmente sobre una superficie de 1 metro cuadrado, produce a través de esta superficie un flujo magnético total de 1 weber. "
+"C29","Militesla",
+"D81","Microtesla",
+"C48","Nanotesla",
+"P13","Kilotesla","1000 veces la unidad derivada tesla."
+"P12","Gamma","Unidad de densidad de flujo magnético."
+"WEB","Weber","Es el flujo magnético que, al atravesar un circuito de una sola espira produce en la misma una fuerza electromotriz de 1 volt si se anula dicho flujo en un segundo por decaimiento uniforme. "
+"C33","Miliweber",
+"P11","Kiloweber","1000 veces la unidad derivada weber, del sistema internacional de unidades."
+"D59","Weber por metro",
+"B56","Kiloweber por metro",
+"D60","Weber por milímetro",
+"81","Henry","Un henry es la unidad para la inductancia eléctrica en el Sistema Internacional de Unidades. Es la inductancia eléctrica de un circuito cerrado en el que se produce una fuerza electromotriz de 1 voltio, cuando la corriente eléctrica que recorre el circuit"
+"C14","Milihenry",
+"B90","Microhenry",
+"C43","Nanohenry",
+"C73","Picohenry",
+"H03","Henry por kiloohm",
+"H04","Henry por ohm",
+"G98","Micro henry por kiloohm",
+"G99","Micro henry por ohm",
+"H05","Milihenry por kiloohm",
+"H06","Milihenry por ohm",
+"P24","Kilohenry","1000 veces la unidad derivada, henry del sistema internacional."
+"A98","Henry por metro",
+"B91","Microhenry por metro",
+"C44","Nanohenry por metro",
+"A5","Ampere metro cuadrado",
+"B8","Joule por metro cúbico",
+"OHM","Ohm","es la resistencia eléctrica que existe entre dos puntos de un conductor cuando una diferencia de potencial constante de 1 volt aplicada entre estos dos puntos produce, en dicho conductor, una corriente de intensidad 1 ampere, cuando no haya fuerza electro"
+"A87","Gigaohm",
+"B75","Megaohm",
+"H44","Teraohm",
+"B49","Kiloohm",
+"E45","Miliohm",
+"B94","Micro ohm",
+"P22","Nanoohm","0.000 000 001 veces de la unidad derivada ohm."
+"M26","Gigaohm por metro",
+"SIE","Siemens","Se denomina siemens a la unidad derivada del SI para la medida de la conductancia eléctrica."
+"B53","Kilosiemens",
+"C27","Milisiemens",
+"B99","Microsiemens",
+"G42","Microsiemens por centímetro",
+"G43","Microsiemens por metro",
+"N92","Picosiemens","0.000 000 000 001 veces de la unidad derivada  siemens del sistema internacional de unidades."
+"C61","Ohm metro",
+"A88","Gigaohm metro",
+"B76","Megaohm metro",
+"H88","Megaohm kilómetro",
+"B50","Kiloohm metro",
+"C60","Ohm centímetro",
+"C23","Miliohm metro",
+"B95","Microohm metro",
+"C46","Nanoohm metro",
+"M24","Ohm kilómetro",
+"P23","Ohm circular-mil por pie","Unidad de resistividad."
+"F56","Ohm por kilómetro",
+"H26","Ohm por metro",
+"H37","Megaohm por metro",
+"F54","Miliohm por metro",
+"H36","Megaohm por kilómetro",
+"F55","Ohm por milla (milla estatal)",
+"D10","Siemens por metro",
+"H43","Siemens por centímetro",
+"H61","Milisiemens por centímetro",
+"B77","Megasiemens por metro",
+"B54","Kilosiemens por metro",
+"G45","Nanosiemens por metro",
+"G44","Nanosiemens por centímetro",
+"L42","Picosiemens por metro",
+"C89","Henry recíproco",
+"P14","Joule por segundo","Cociente de la unidad derivada joule dividido entre la unidad base, segundo, ambas del sistema internacional."
+"D31","Terawatt",
+"P15","Joule por minuto","Cociente de la unidad derivada, joule, dividido entre la unidad minuto."
+"P16","Joule por hora","Cociente de la unidad derivada, joule, dividido entre la unidad hora."
+"P17","Joule por día","Cociente de la unidad derivada, joule, dividido entre la unidad día."
+"P18","Kilojoule por segundo","Cociente entre 1000 veces de la unida derivada, joule, dividido por la unidad base segundo."
+"P19","Kilojoule por minuto","Cociente entre 1000 veces de la unida derivada, joule, dividido por la unidad minuto."
+"P20","Kilojoule por hora","Cociente entre 1000 veces de la unida derivada, joule, dividido por la unidad hora."
+"P21","Kilojoule por dia","Cociente entre 1000 veces de la unida derivada, joule, dividido por la unidad día"
+"K43","Caballo de fuerza (eléctrico)","Es una unidad de medida de potencia (la velocidad a la que el trabajo se realiza)."
+"C49","Nanowatt",
+"C75","Picowatt",
+"D46","Volt-ampere",
+"MVA","Megavolt - ampere",
+"KVA","Kilovolt - ampere",
+"M35","Milivolt - ampere",
+"D44","Var","El nombre de la unidad es un acrónimo de volt-ampere-reactive."
+"KVR","Kilovar",
+"MAR","Megavar","Una unidad de potencia reactiva eléctrica representada por una corriente de mil amperes que fluye debido a una diferencia de potencial de mil voltios donde el seno del ángulo de fase entre ellos es 1."
+"N91","Joule recíproco",
+"M30","Volt-ampere segundo recíproco",
+"M17","Kilohertz metro",
+"M18","Gigahertz metro",
+"M27","Megahertz metro",
+"M21","Kilovolt-ampere hora recíproco",
+"H34","Hertz metro",
+"H39","Megahertz kilómetro",
+"C84","Radían por metro",
+"JM","Megajoule por metro cúbico",
+"B14","Joule por metro a la cuarta potencia",
+"B13","Joule por metro cuadrado","Sinónimo: joule por metro cuadrado"
+"D1","Segundo recíproco por estereorradián",
+"D2","Segundo recíproco por estereorradián metro cuadrado",
+"C99","Segundo recíproco por metro cuadrado",
+"C93","Metro cuadrado recíproco","Sinónimo: recíproco de metro cuadrado"
+"H47","Watt por metro cúbico",
+"H74","Watt por metro",
+"E43","Joule por centímetro cuadrado","Una unidad de energía que define el número de julios por centímetro cuadrado."
+"P37","Unidad térmica británica (tabla internacional) por pie cuadrado","Unidad de la transmisión de energía relacionado de muestreo de áreas de acuerdo con el sistema imperial de unidades."
+"P38","Unidad térmica británica (termoquímica) por pie cuadrado","Unidad de la transmisión de energía relacionado de muestreo de áreas de acuerdo con el sistema imperial de unidades."
+"P39","Caloría (termoquímica) por centímetro cuadrado","Unidad de la transmisión de energía relacionado de muestreo de áreas de acuerdo con el sistema imperial de unidades."
+"P40","Langley","CGS (Centímetro-Gramo-Segundo sistema) unidad de la transmisión de energía relacionada con el área (como una medida de la cantidad incidente de calor de la radiación solar en la superficie de la tierra)."
+"D57","Watt por estereorradián",
+"D58","Watt por estereorradián metro cuadrado",
+"D56","Watt por metro cuadrado kelvin a la cuarta potencia",
+"D18","Metro kelvin",
+"CDL","Candela","La candela es una de las unidades básicas del Sistema Internacional, de intensidad luminosa."
+"P33","Kilocandela","1000 veces la unidad base, candela, del sistema internacional."
+"P34","Milicandela","0.001 veces la unidad base , candela, del sistema internacional."
+"P35","Hefner-kerze","Obsoleto, unidad de potencia en Alemania relacionado con DIN 1301-3:1979: 1 HK = 0,903 candela."
+"P36","Candela internacional","Unidad obsoleta de la potencia en Alemania relativa a DIN 1301-3: 1979: 1 HK = 1.019 candela."
+"LUM","Lumen","El lumen es la unidad estándar del flujo luminoso de una fuente de luz. Es una unidad derivada del sistema internacional, basada en la candela."
+"B62","Lumen segundo",
+"B59","Lumen hora",
+"A24","Candela por metro cuadrado",
+"P28","Candela por pulgada cuadrada","Unidad base, candela dividido por la potencia de la unidad de pulgada al exponente 2 de acuerdo con el sistema de unidades Anglo-Americanas e Imperial."
+"P29","Footlambert","Unidad de luminancia de acuerdo con el sistema Anglo-Americano de unidades, y se define como la luminancia emitida o reflejada de un lumen por pie cuadrado."
+"P30","Lambert","Unidad de luminancia CGS (Centímetro-Gram-Segundo sistema), definida como la luminancia emitida o reflejada de un lumen por centímetro cuadrado."
+"P31","Stilb ","Unidad de luminancia CGS (Centímetro-Gram-Segundo sistema), definida como la luminancia emitida o reflejada de un lumen por centímetro cuadrado."
+"P32","Candela por pie cuadrado","Unidad base, candela dividido por la potencia de la unidad pie al exponente 2 , de acuerdo con el sistema anglo-americano y el sistema imperial de unidades "
+"B60","Lumen por metro cuadrado",
+"LUX","Lux","Un lux es la incidencia perpendicular de un lumen en una superficie de 1 metro cuadrado. Equivale a 0.0929 lúmenes."
+"KLX","Kilolux","Una unidad de iluminancia igual a mil lux."
+"P25","Lumen por pie cuadrado","Unidad derivada, lumen dividido por la potencia de la unidad pie, al exponente 2, de acuerdo con el sistema anglo-americano y el sistema imperial."
+"P26","Foto","es una unidad de iluminancia  o flujo luminoso a través de un área. No es una unidad del sistema internacional, sino que se asocia con el antiguo segundo sistema centímetro gramo de unidades ."
+"P27","Vela (medida)","Es una unidad de medida de iluminancia que no pertenece al Sistema Internacional de Unidades, pero es ampliamente usada en Estados Unidos para fotografía, cine, televisión, conservación luminosa, ingeniería de la construcción, etc. Una vela significa ""el "
+"B64","Segundo de luz",
+"B63","Hora de luz",
+"B61","Luminosidad por watt",
+"D22","Metro cuadrado por mole",
+"C59","Octava","Una unidad utilizada en la música para describir la relación de la frecuencia entre las notas."
+"C32","Miliwatt por metro cuadrado","Es equivalente a una milésima de vatio."
+"D85","Microwatt por metro cuadrado","Es equivalente a una millonésima parte de un vatio."
+"C76","Picowatt  por metro cuadrado","Es igual a la trillonésima parte de un vatio (10−12)."
+"C67","Segundos pascal por metro ",
+"C66","Segundos pascal por metro cúbico",
+"M32","Segundos pascal por litro",
+"C58","Segundos newton por metro",
+"P43","Bel por metro","Una unidad Bel dividida por la unidad básica del sistema internacional (metros)."
+"H51","Decibel per kilometro",
+"H52","Decibel per metro",
+"C69","Phon","Unidad de volumen del sonido subjetivo. Un sonido tiene p phons de sonoridad si se parece al oyente a ser iguales en intensidad, con el sonido de un tono puro de frecuencia 1 kilohertz y de la fuerza p decibelios."
+"D15","Sone","Una unidad de volumen del sonido subjetivo. Un sone es la intensidad de un tono puro de la frecuencia y la fuerza de un kilohertz 40 decibelios."
+"P42","Pascal por segundo cuadrado","Unidad del conjunto como un producto de la potencia de derivado unidad pascal SI con exponente 2 y la unidad base segunda SI."
+"P41","Década (logaritmica)","Una escala logarítmica es una escala de medida que utiliza el logaritmo de una cantidad física en lugar de la propia cantidad."
+"C34","Mole","Es la cantidad de sustancia de un sistema que contiene tantas entidades elementales como átomos hay en 0,012 kilogramos de carbono 12. "
+"B45","Kilomole",
+"C18","Milimole",
+"FH","Micromole",
+"P44","Libra mole","Unidad que no forma parte del sistema internacional, cantidad de una sustancia relacionada que un mol libra de una composición química corresponde a la misma cantidad de libras como el peso molecular de una molécula de esta composición en unidades de masa"
+"C95","Reciprocidad mole","Es una propiedad física definida como su masa por unidad de cantidad de sustancia."
+"D74","Kilogramo por mole",
+"A94","Gramo por mole",
+"A40","Metro cubbico por mole",
+"A37","Decimetro cuadrado por mole",
+"A36","Centimetro cubico por mole",
+"B58","Litro por mole",
+"B15","Juole por mole",
+"B44","Kilojoule por mole ",
+"B16","Juoule por mole kelvin",
+"C86","Reciprocidad del metro cubico",
+"H50","Reciprocidad del centimetro cubico",
+"L20","Reciprocidad del milimetro cubico",
+"K20","Reciprocidad del pie cuadrado",
+"K49","Reciprocidad de la pulgada cuadrada",
+"K63","Reciprocidad del litro",
+"M10","Reciprocidad de la yarda cuadrada",
+"C36","Mole por metro cubico",
+"C38","Mole por litro",
+"C35","Mole por decimetro cubico",
+"B46","Mole por metro cubico",
+"E95","Mole por segundo",
+"M33","Milimole por litro",
+"P51","Mole por kilogramo pascal ","Unidad base mole dividido por el producto de la unidad base SI kilogramo y la unidad derivada pascal SI. "
+"P52","Mole por metro cubico pascal","unidad base mole dividido por el producto de la potencia de la unidad base SI metros con exponente 3 y la unidad derivada pascal SI."
+"K59","Kilomole por metro cubico kelvin",
+"K60","Kilomole por metro cubico bar",
+"K93","Reciprocidad psi",
+"L24","Mole por kilogramo kelvin",
+"L25","Mole por kilogramo bar",
+"L26","Mole por litreo kelvin",
+"L27","Mole por litro bar",
+"L28","Mole por metro cubico kelvin",
+"L29","Mole por metro cubico bar",
+"C19","Mole por kilogramo",
+"D93","Segundo por metro cubico",
+"D87","Milimole por kilogramo",
+"H68","Milimole por gram",
+"P47","Kilomole por kilogramo","1000 veces la división de la unidad base mole por la base de la unidad kilogramo."
+"P48","Libra de mole por libra","Unidad del flujo molar material dividido por la libra avoirdupois para la masa de acuerdo con el sistema de unidades avoirdupois no SI-conforme."
+"KAT","Katal"," Una unidad de actividad catalítica que define la actividad catalítica de las enzimas y otros catalizadores."
+"E94","Kilomole por segundo",
+"P45","Libra de mole por segundo","No forma parte del sistema internacional de unidades.
+Unidad de flujo del flujo molar que se refiere a que una libra mol de una composición química el mismo número de libras corresponde con el peso molecular de una molécula de esta composición en la masa "
+"P46","Libra mole por minuto","No forma parte del sistema internacional de unidades.
+Unidad de flujo del flujo molar que se refiere a que una libra mol de una composición química el mismo número de libras corresponde como el peso molecular de una molécula de esta composición en la masa"
+"D43","Unidad de masa atómica unificada",
+"A27","Coulomb metro cuadrado por voltio",
+"A32","Coulomb por mole",
+"D12","Siemens metro cuadrado por mole",
+"K58","Kilomole por hora",
+"K61","Kilomole por minuto",
+"L23","Mole por hora ",
+"L30","Mole por minuto",
+"C82","Radianmetro cuadrado por mole",
+"C83","Rradian metro cuadrado por kilogramo",
+"P49","Newton metro cuadrado por ampere","Producto de la division de la unidad Newton y la unidad base metro 
+Producto de la unidad derivada newton y la potencia del medidor de la unidad base con el exponente 2 dividido por el amperio de la unidad base."
+"P50","Metro weber","Producto de la división entre  la unidad Weber y la unidad Metro."
+"Q30","Ph (potencial de hidrogeno)","Es una escala numérica utilizada para especificar la acidez o basicidad de una solución acuosa . "
+"B18","Segundos joule",
+"A10","Ampere por metro cuadrado por joule segundo",
+"CUR","Curie","El Curie (Ci) es la unidad antigua de medida de radiactividad, definida como la actividad de in gramo del isótopo Ra-226, su equivalencia es: 1Ci = 3,7 1010 Bq."
+"MCU","Milicurie",
+"M5","Microcurie",
+"2R","Kilocurie",
+"BQL","Becquerel","Es la actividad de una fuente radiactiva en la que se desintegra un núcleo por segundo en un dado instante."
+"GBQ","Gigabecquerel",
+"2Q","Kilobecquerel",
+"4N","Megabequerel",
+"H08","Microbequerel",
+"A42","Curie por kilogramo",
+"A18","Becquerel por kilogramo",
+"B67","Megabecquerel por kilogramo",
+"B25","Kilobecquerel por metrocubico",
+"A19","Becquerel por metro cubico",
+"A14","Barn","Es una unidad de superficie, equivalente a 10-28 m² (100 femtómetros cuadrados). Sus múltiplos son muy utilizados en física de partículas para medir las secciones eficaces en reacciones nucleares, y sus inversos para medir luminosidades."
+"D24","Metro cuadrado por esteroradian",
+"A17","Barn por esteroradian",
+"D20","Metro cuadrado por joule",
+"A15","Barn por electrovolt",
+"D16","Centimetro cuadrado por erg",
+"D25","Metro cuadrado por esteroradian joule",
+"A16","Barn por electrovolt ",
+"D17","Centimetro cuadrado por esteroradian erg",
+"B81","Reciprocidsad del metro cuadrado, reciprocidad del segundo",
+"D21","Metro cuadrado por kilogramo",
+"B12","Joule por metro",
+"A54","Electrovolt por metro",
+"D73","Joule metro cuadrado",
+"A55","Electrovolt por metro cuadrado",
+"B20","Joule metro cuadrado por kologramo",
+"A56","Electrovolt metro cuadrado por kilogramo",
+"D26","Metro cuadrado por voltsegundo",
+"H58","Metro por volt segundo",
+"C87","Reciprocidad metro cubico por segundo","Sinonimo: Reciprocidad del segundo por metro cubico."
+"A95","Gray","Es una unidad derivada del Sistema Internacional de Unidades que mide la dosis absorbida de radiaciones ionizantes por un determinado material. Un gray es equivalente a la absorción de un julio de energía ionizante por un kilogramo de material irradiado."
+"C13","Milligray",
+"C80","Rad",
+"D13","Sievert",
+"C28","Millisievert",
+"D91","Rem",
+"L31","Milliroentgen aequivalent men",
+"A96","Gray por segundo",
+"CKG","Coulomb per kilogram",
+"C8","Millicoulomb per kilogram",
+"2C","Roentgen",
+"2Y","Milliroentgen",
+"J53","Coulomb square metre per kilogram",
+"KR","Kiloroentgen",
+"A31","Coulomb per kilogram second",
+"D6","Roentgen per second",
+"P54","Miligray por segundo","0.0001 veces de la unidad derivada gray dividido por la unidad de base segundos."
+"P55","Microgray por segundo","0.000 001 veces de la unidad derivada gray dividido por la unidad de base segundos."
+"P56","Nanogray por segundo","0.000 000 001 veces de la unidad derivada gray dividido por la unidad de base segundos."
+"P57","Gray por segundo","Derivada del la unidad gray dividida por la unidad minutos."
+"P58","Miligray por minuto","0.001 veces de la unidad derivada de gray dividida por la unidad de minutos."
+"P59","Microgray por minuto","0.000 001 veces de la unidad derivada gris SI dividido por la unidad de minutos."
+"P60","Nanogray por minuto","0.000 000 001 veces de la unidad derivada gris SI dividido por la unidad de minutos."
+"P61","Gray por hora","Derivada de la unidad gray por la derivada de la unidad hora."
+"P62","Miligray por hora","0.001 veces de la unidad derivada gray por la unidsd hora"
+"P63","Micro gray por hora","0.000 001 veces de la unidad derivada gris SI dividida por la hora unidad."
+"P64","Nanogray por hora","0.000 000 001 veces de la unidad derivada gris SI dividida por la hora unidad."
+"P65","Sievert por segundo","Derivada de la unidad sievert dividida por la unidad de base segundos."
+"P66","Miligray por hora","0.001 veces de la unidad derivada sievert dividida por la unidad de base segundos."
+"P67","Microsievert por segundo","0.000 001 veces de la unidad derivada sievert dividido por la unidad de base segundos."
+"P68","Nanosievert por segundo","0.000 000 001 veces de la unidad derivada sievert dividido por la unidad de base segundos."
+"P69","Rem por segundo","Unidad para la tasa de estaño equivalente y relativa a DIN 1301-3: 1979: 1 rem / s = 0,01 J / (kg · s) = 1 Sv / s."
+"P70","Sievert por segundo","Derivado unidad sievert SI dividida por la hora unidad."
+"P71","Miligray por hora","0.001 veces de la unidad derivada sievert SI dividida por la hora unidad."
+"P72","Micro sievert por hora","0.000 001 veces de la unidad derivada sievert dividida por la unidad hora."
+"P73","Nanosievert por hora","0.000 000 001 veces de la unidad derivada sievert dividida por la un idad hora."
+"P74","Sievert por segundo","Derivado unidad sievert dividido por la unidad minuto."
+"P75","Miligray por hora","0.001 veces de la unidad derivada sievert dividido por la unidad de minutos."
+"P76","Micro sievert pero perie","0.000 001 veces de la unidad derivada sievert dividido por la unidad de minutos."
+"P77","Nanosievert pominut ","0.000 000 001 veces de la unidad derivada sievert dividido por la unidad de minutos."
+"P78","Reciprocal por segundo","Complemento de la potencia de la unidad pulgada según el sistema Anglo-Americano e Imperial de unidades por exponente 2."
+"P53","Unit por segundo","Sistema CGS (Centímetro-Gram-Segundo sistema) para el flujo magnético de un polo magnético (según la interacción de polos idénticos de 1 din a una distancia de un cm)."
+"C85","Reciprocal pogstrca",
+"D94","Second poradime",
+"C90","Reciprocal po met c",
+"C88","Reciprocal po met c",
+"A38","Cubic pooulo p",
+"D48","Volt pokelvt ",
+"D49","Millivolt pokelvt ",
+"A6","Ampere poquarlv",
+"33","Kilopascal por grtr",
+"P79","Pascal metro cuadrado por kilogramo"," Unidad del índice de estallido como unidad derivada para pascal presión relacionada con la sustancia, representado como cociente de la unidad base SI kilogramo dividida por la potencia de la unidad base SI metros por exponente 2."
+"34","Kilopascal por milimetro",
+"H42","Pascal por metro",
+"H69","Picopascal por kilometro",
+"P80","Milipascal por metro."," 0.001 veces de la unidad derivada pascal dividido por la unidad de base metros."
+"P81","Kilopascal por metro.","1000 veces de la unidad derivada pascal dividido por la unidad de base metros."
+"P82","Hectopascal por metro.","100 veces de la unidad derivada pascal SI dividido por la unidad de base metros. "
+"P83","Admosfera estandar por metro.","Unidad anticuadas de la presión dividida por la unidad de base metros."
+"P84","Admosfera tecnica por metro.","unidad obsoleta y no legal de la presión que se genera por una columna de agua de 10 metros dividida por la unidad de base metros."
+"P85","Torr por metro.","Unidad de la presión dividida por la unidad de base metros."
+"P86","Psi por pulgada","Unidad de compuesto para la presión (libra de fuerza de acuerdo con el sistema de la unidad angloamericana dividida por la potencia de la unidad de pulgada de acuerdo con el sistema angloamericano e Imperial de unidades con el exponente 2) dividido por la"
+"35","Milimetro por un segundo centimetro cuadrado",
+"P87","Metro cubico por segundo de metro cuadrado","Unidad de volumen de flujo metros cúbicos por segundo relacionado con la superficie de transmisión en metros cuadrados."
+"OPM","Oscilaciones por minuto","número de variaciones, perturbaciones o fluctuación en el tiempo de un medio o sistema"
+"KNM","Kolonewton por metro cuadrado",
+"Q35","Megawatts por minuto","Unidad de potencia que define la cantidad total de energía mayor transferida o consumida en un minuto."
+"10","Group","Una unidad de conteo que define el número de grupos (grupo: conjunto de elementos clasificados juntos)."
+"11","Aquipar"," Unidad de recuento que define el número de equipos (equipo: un conjunto completo de equipo / materiales / objetos utilizados para un propósito específico)."
+"13","Ración","Una unidad de recuento para definir el número de raciones (ración: una sola porción de las disposiciones)."
+"14","Shot","Unidad de medida para liquidos."
+"15","Palo, medida militar.","Unidad para el momento de rotación relacionado con la longitud según el sistema de unidades Anglo-Americanas e Imperial."
+"20"," contenedores de veinte pies"," Unidad de conteo que define el número de contenedores de transporte que miden 20 pies de longitud."
+"21"," contenedor de cuarenta pies"," Unidad de conteo que define el número de contenedores de transporte que miden 40 pies de longitud."
+"24","Libra teórica"," Unidad de masa que define la masa esperada de material expresado como el número de libras."
+"27","Tonelada teórica","Unidad de masa que define la masa esperada de material, expresada como el número de toneladas."
+"38","Onzas por pie cuadrado por 0,01 pulgadas",
+"56","Sitas"," Unidad de área de placa de estaño igual a un área de superficie de 100 metros cuadrados."
+"57","Malla","Una unidad de recuento de definir el número de hebras por pulgada como una medida de la finura de un producto tejido."
+"58"," kilogramo neto","Unidad de masa que define el número total de kilogramos después de las deducciones."
+"59"," parte por millón"," Una unidad de proporción igual a 10⁻⁶."
+"60"," por ciento en peso","Una unidad de proporción igual a 10⁻²."
+"61","Parte por mil millones (us)","Una unidad de proporción igual a 10⁻⁹."
+"1I"," tipo de interés fijo"," Unidad de cantidad expresada como una tasa predeterminada o conjunto para el uso de una instalación o servicio."
+"2G","Volts ca"," Una unidad de potencial eléctrico en relación a la corriente alterna (AC)."
+"2H","Volt dc","Unidad de potencial eléctrico en relación con corriente directa (DC)."
+"2P","Kilobyte"," Unidad de información igual a 10 ³  (1000) bytes."
+"3C","Manmonth","Unidad de cuenta que define el número de meses que una persona o personas pueden desempeñar alguna actividad."
+"4L","Megabyte","Unidad que se usa para cuantificar un caudal de datos equivalente a 1000 kb/s."
+"5B","Batch","Unidad de conteo que define el número de lotes (lote: cantidad de material producido en una operación o número de animales o personas que vienen a la vez)."
+"5E","Mmscf/day","Unidad de volumen equivalente a un millón (1,000,000) pies cúbicos de gas por día."
+"5J","Caballos de potencia hidráulica","Unidad de potencia de la definición de los caballos de potencia hidráulica suministrada por una bomba de fluido dependiendo de la viscosidad del fluido."
+"A43","Tonelaje de peso muerto","Unidad de masa que define la diferencia entre el peso de un barco cuando está completamente vacío y su peso cuando está completamente cargado, expresado como el número de toneladas."
+"A47","Decitex","Unidad de densidad de hilo. Un decitex es igual a una masa de 1 gramo por 10 kilómetros de longitud."
+"A49","Negador","Unidad de densidad de hilo. Una denier es igual a una masa de 1 gramo por 9 kilómetros de longitud."
+"A59","La cobertura de nubes 8-parte","Unidad de recuento para definir el número de octavos de partes como una medida de la cobertura de nubes de la ccúpula celeste. 
+
+'Sinónimo: OKTA,, OCTA"
+"A75","Tonelada de carga","Unidad de información que normalmente se utiliza para la facturación, que se define como sea el número de toneladas métricas o el número de metros cúbicos, lo que sea mayor."
+"A9","Tarifa","Unidad de cantidad expresada como una tasa para el uso de una instalación o servicio."
+"A99","Bit","Unidad de información igual a un dígito binario."
+"AA","Ball","Unidad de recuento para definir el número de bolas (ball: objeto formado en la forma de esfera)."
+"AB","Paquete a granel","Unidad de recuento para definir el número de artículos por paquete a granel."
+"ACT","Actividad","Unidad de recuento para definir el número de actividades (actividad: una unidad de trabajo o acción)."
+"AD","Byte","Unidad de información igual a 8 bits."
+"AH","Minuto adicional","Unidad de tiempo que define el número de minutos, además de los minutos referenciados."
+"AI","Minuto y medio por llamada","Unidad de recuento para definir el número de minutos para el intervalo medio de una llamada."
+"AL","Línea de acceso","Unidad de recuento para definir el número de líneas de acceso telefónico."
+"AQ","Unidad del factir anti-hemofilico.","Unidad de medida para la potencia de la sangre (US)."
+"AS","Variedad","Unidad de recuento para definir el número de surtidos (variedad: conjunto de elementos agrupados en una colección mixta)."
+"ASM","Grado alcohólico en masa","Unidad de masa que define el grado alcohólico de un líquido."
+"ASU","Grado alcohólico volumétrico","Unidad de volumen que define el grado alcohólico de un líquido (por ejemplo, alcohol, vino, cerveza, etc.), a menudo a una temperatura específica."
+"AY","Montaje","Una unidad de recuento de definir el número de conjuntos (montaje: artículos que consisten de partes componentes)."
+"B1","Barril (us) por día",
+"B10","Bits por segundo","Unidad de información igual a un dígito binario por segundo."
+"B17","Crédito","Unidad de recuento de definir el número de entradas realizadas en el haber de una cuenta."
+"B19","Dígito","Unidad de información que define la cantidad de números utiliza para formar un número."
+"B3","Libra de bateo","Unidad de masa que define el número de libras de fibra acolchada."
+"B30","Gibibit","Unidad de información igual a 2³⁰ los bits (dígitos binarios)."
+"B4","Barril, imperial","Unidad de volumen utilizado para medir cerveza. Un barril de cerveza es igual a 36 galones imperiales."
+"B68","Gigabit","Unidad de información igual a 10⁹ los bits (dígitos binarios)."
+"B7","Ciclo","Unidad de recuento de definir el número de ciclos (ciclo: un período recurrente de duración definida)."
+"B80","Gigabit por segundo","Unidad de información igual a 10⁹ bits (dígitos binarios) por segundo."
+"B82","Pulgadas por pie lineal","Unidad de longitud que define el número de pulgadas por pie lineal."
+"BB","Caja base","Una unidad de área de 112 hojas de productos de estaño (placa de estaño, acero libre de estaño o placa negra) 14 por 20 pulgadas o 31,360 pulgadas cuadradas."
+"BFT","Tablero de pies","Unidad de medida para el volumen de la madera en el Estados Unidos y Canadá . Es el volumen de una longitud de un pie de una placa de un pie de ancho y una pulgada de grosor."
+"BIL","Billon","Sinonimo: Trillon en US."
+"BP","Tabledo de cien pies",
+"BPM","Latidos por minuto","El número de latidos por minuto."
+"C0","Llamada","Una unidad de recuento de definir el número de llamadas (call: sesión de comunicación o de visita)."
+"C21","Kibibit","Unidad de información igual a 2¹⁰ (1024) bits (dígitos binarios)."
+"C37","Kilobits","Unidad de información igual a 10³(1000) bits (dígitos binarios)."
+"C74","Kilobits por segundo","Unidad de información igual a 10 ³  (1000) bits (dígitos binarios) por segundo."
+"C79","Kilovoltios horas amperios","Unidad de energía acumulada de 1000 amperios voltios durante un período de una hora."
+"C9","Grupo bobinas","Unidad de conteo que define el número de grupos de bobinas (grupo bobina: grupos de elementos dispuestos por longitudes de los objetos colocados en una secuencia de círculos concéntricos unido)."
+"CCT","Capacidad de carga en toneladas métricas","Unidad de masa que define la capacidad de carga, expresada como el número de toneladas métricas."
+"CEN","Centenar","Una unidad de recuento de definir el número de unidades en múltiplos de 100."
+"CG","Tarjeta","Unidad de conteo que define el número de unidades de la tarjeta (tarjeta: papel rígido grueso o cartón)."
+"CLF","Cientos de hojas","Una unidad de recuento de definir el número de hojas, expresado en unidades de cien hojas."
+"CNP","Cientos de paquetes","Unidad de recuento para definir el número de cientos de paquetes (cien paquete: conjunto de un centenar de artículos empaquetados juntos)."
+"CNT","Cental (reino unido)","Una unidad de masa igual a cien  kilos (US)."
+"CTG","Contenido en gramos","Unidad de masa que define el número de gramos de un elemento con nombre en un producto."
+"CTM","Quilatage métrico","Es una unidad de masa igual a 200  mg y se utiliza para la medición de las piedras preciosas y perlas ."
+"CTN","Tonelada de contenido (métrica)","Unidad de masa que define el número de toneladas métricas de un elemento con nombre en un producto."
+"D03","Kilovatio hora por hora","Unidad de energía acumulada en mil vatios durante un período de una hora."
+"D04","Lot [unidad de peso]","Unidad de peso igual a aproximadamente media onza o 15 gramos."
+"D11","Mebibit","Una unidad de información igual a 2²⁰ (1048576) bits (dígitos binarios)."
+"D23","Gramo pluma (proteína)","Unidad de recuento pata definir el número de gramos de aminoácidos  prescritos para la terapia parenteral y terapia enteral."
+"D34","Tex","Enidad de medida utilizada para medir la densidad o la masa lineal de una fibra."
+"D36","Megabit","unidad que se usa para cuantificar un caudal de datos equivalente a 1000 kb/s."
+"D63","Libro","Unidad de recuento para definir el número de libros (libro: conjunto de elementos unidos entre sí o documento de un material escrito)."
+"D65","Redondo","Unidad de recuento para definir el número de rondas (redondos: un objeto circular o cilíndrico)."
+"D68","Número de palabras","Unidad de recuento para definir el número de palabras."
+"D78","Megajoule por segundo","Unidad de energía acumulada igual a un millón de julios por segundo."
+"DAD","Diez días","Unidad de tiempo que define el número de días en múltiplos de 10."
+"DB","Libra seca","Unidad de masa que define el número de libras de un producto, sin tener en cuenta el contenido de agua del producto."
+"DEC","Década","Unidad de recuento de definir el número de décadas (década: cantidad igual a 10 o tiempo igual a 10 años)."
+"DMO","Kiloliter norma","Unidad de volumen que define el número de kilolitros de un producto a una temperatura de 15 grados centígrados, sobre todo en relación con los aceites de hidrocarburos."
+"DPC","Docenas de piezas","Unidad de recuento para definir el número de piezas en múltiplos de 12 (pieza: un solo artículo, el artículo o ejemplar)."
+"DPR","Docenas de pares","Unidad de recuento de definir el número de pares en múltiplos de 12 (par: ítem descrito por dos de)."
+"DPT","Peso de desplazamiento","Unidad de masa que define el volumen de agua de mar de un barco desplaza, expresada como el número de toneladas."
+"DRA","Dram (us)","Sinónimo: dracma (Reino Unido), dram Troy"
+"DRI","Dram (reino unido)","Son las siglas de la voz inglesa Dynamic Random Access Memory, que significa memoria dinámica de acceso aleatorio (o RAM dinámica), para denominar a un tipo de tecnología de memoria RAM basada en condensadores, los cuales pierden su carga progresivamente,"
+"DRL","Docena de rodillos","Unidad de recuento de definir el número de rollos, expresado en doce unidades de rodillos."
+"DT","Tonelada seca","Unidad de masa que define el número de toneladas de un producto, sin tener en cuenta el contenido de agua del producto."
+"DWT","Pennyweight","La unidad obsoleta pennyweight era Unidad de masa utilizada en el Reino Unido antes de 1971. Se consideraba equivalente a la masa de un penique, y equivale a la 1/240 parte de una libra troy. Se abrevia pwt."
+"DZN","Docena","Unidad de recuento de definir el número de unidades en múltiplos de 12."
+"DZP","Docena de paquete","Unidad de conteo que define el número de paquetes en múltiplos de 12 (paquete: unidad de embalaje estándar)."
+"E07","Megawatt hora por hora","Unidad de energía acumulado de un millón de vatios durante un período de una hora."
+"E08","Megavatios por hertz","Unidad de energía expresada como el cambio de carga en millones de watts que provocará un desplazamiento de frecuencia de un hertz."
+"E10","Día de grado","Unidad de medida utilizada en la meteorología y la ingeniería para medir la demanda de calentamiento o enfriamiento durante un período determinado de días."
+"E12","Mille","Unidad de recuento de definir el número de cigarrillos en unidades de 1.000."
+"E16","Millón de btu (ti) por hora","Unidad de potencia igual a un millón de unidades térmicas británicas por hora."
+"E17","Pie cúbico por segundo","Unidad de volumen igual a un pie cúbico pasa por un punto dado en un periodo de un segundo."
+"E19","Ping","Unidad de área equivalente a 3,3 metros cuadrados."
+"E20","Megabit por segundo","Unidad de información igual a 10 ⁶  (1000000) bits (dígitos binarios) por segundo."
+"E21","Shares","Unidad de recuento para definir el número de acciones (proporción: un total o una parte de las partes en que se divide el capital de una entidad comercial)."
+"E22","Tue","Unidad de recuento para definir el número de unidades equivalentes a veinte pies (TEU) como una medida de la capacidad de carga en contenedores."
+"E23","Neumático","Unidad de recuento de definir el número de neumáticos (una cubierta sólida o llena de aire colocado alrededor de una llanta de rueda para formar un contacto suave con la carretera, absorber los golpes y proporcionar tracción)."
+"E25","Unidad activa","Unidad de conteo que define el número de unidades activas dentro de una sustancia."
+"E27","Dosis","Unidad de recuento de definir el número de dosis (dosis: una cantidad definida de un medicamento o fármaco)."
+"E28","Tonelada seca de aire","Unidad de masa que define el número de toneladas de un producto, sin tener en cuenta el contenido de agua del producto."
+"E30","Hebra","Unidad de recuento de definir el número de hebras (hebra: de largo,, flexible, solo hilo delgado, tiras de fibra, filamento constituyente o múltiplos de la misma, trenzados entre sí)."
+"E31","Metro cuadrado por litro","Unidad de recuento de definir el número de metros cuadrados por litro."
+"E32","Litros por hora","Unidad de recuento de definir el número de litros por hora."
+"E33","Por mil pies","Unidad de recuento de definir el número de pies por mil unidades."
+"E34","Gigabyte","Unidad de información igual a 10⁹ bytes."
+"E35","Terabyte","Unidad de información igual a 10¹² bytes."
+"E36","Petabyte","Unidad de información igual a 10¹⁵ bytes."
+"E37","Pixel","Unidad de recuento de definir el número de píxeles (píxel: elemento de imagen)."
+"E38","Megapíxeles","Unidad de recuento igual a 10 $ ⁶ $ (1000000) píxeles (elementos de imagen)."
+"E39","Puntos por pulgada","Unidad de información que define el número de puntos por pulgada lineal como una medida de la resolución o nitidez de una imagen gráfica."
+"E4","Kilo bruto","Unidad de masa que define el número total de kilogramos antes de las deducciones."
+"E40","Parte por cien mil","Unidad de proporción igual a 10⁻⁵."
+"E44","Metros kilogramo-fuerza por centímetro cuadrado","Unidad de torsión que define el medidor de par kilogramo-fuerza por centímetro cuadrado."
+"E46","Kilovatio hora por metro cúbico","Unidad de consumo de energía expresada como kilovatio hora por metro cúbico."
+"E47","Kilovatio hora por kelvin","Unidad de consumo de energía expresada como kilovatio hora por kelvin."
+"E48","Unidad de servicio","Unidad de conteo que define el número de unidades de servicio (unidad de servicio: definido período / propiedad / centro / utilidad de alimentación)."
+"E49","Día de trabajo","Unidad de recuento de definir el número de días de trabajo (jornada de trabajo: un día en el que se lleva a cabo normalmente un trabajo)."
+"E50","Unidad de cuenta","Unidad de recuento de definir el número de unidades de contabilidad."
+"E51","Trabajo","Unidad de recuento de definir el número de puestos de trabajo."
+"E52","Run foot","Unidad de conteo para definir la distancia (en la unidad Pie) que se dan en una carrera)."
+"E53","Prueba","Unidad de recuento de definir el número de pruebas."
+"E54","Viaje","Unidad de recuento de definir el número de viajes."
+"E55","Utilizar","Unidad de recuento de definir el número de veces que se utiliza un objeto."
+"E56","Bien","Unidad de recuento de definir el número de pozos."
+"E57","Zona","Unidad de conteo que define el número de zonas."
+"E58","Exabit por segundo","Unidad de información igual a 10¹⁸ bits (dígitos binarios) por segundo."
+"E59","Exbibyte","Unidad de información igual a 2⁶⁰ bytes."
+"E60","Pebibyte","Unidad de información igual a 2⁵⁰ bytes."
+"E61","Tebibyte","Unidad de información igual a 2⁴⁰ bytes."
+"E62","Gibibyte","Unidad de información igual a 2³⁰ bytes."
+"E63","Mebibyte","Unidad de información igual a 2²⁰ bytes."
+"E64","Kibibyte","Unidad de información igual a 2¹⁰ bytes."
+"E65","Exbibit por metro","Unidad de información igual a 2⁶⁰ bits (dígitos binarios) por metro."
+"E66","Exbibit por metro cuadrado","Unidad de información igual a 2⁶⁰ bits (dígitos binarios) por metro cuadrado."
+"E67","Exbibit por metro cúbico","Unidad de información igual a 2⁶⁰ bits (dígitos binarios) por metro cúbico."
+"E68","Gigabyte por segundo","Unidad de información igual a 10⁹ bytes por segundo."
+"E69","Gibibit por metro","Unidad de información igual a 2³⁰ bits (dígitos binarios) por metro."
+"E70","Gibibit por metro cuadrado","Unidad de información igual a 2³⁰ bits (dígitos binarios) por metro cuadrado."
+"E71","Gibibit por metro cúbico","Unidad de información igual a 2³⁰ bits (dígitos binarios) por metro cúbico."
+"E72","Kibibit por metro","Unidad de información igual a 2¹⁰ bits (dígitos binarios) por metro."
+"E73","Kibibit por metro cuadrado","Unidad de información igual a 2¹⁰ bits (dígitos binarios) por metro cuadrado."
+"E74","Kikibit por metro cubico."," Unidad de información igual a 2¹⁰ bits (dígitos binarios) por metro cúbico."
+"E75","Mebbit por metro."," Unidad de información igual a 2²⁰ bits (dígitos binarios) por metro."
+"E76","Mebbitt por metro cuadrado."," Unidad de información igual a 2²⁰ bits (dígitos binarios) por metro cuadrado."
+"E77","Mebbit por metro cubico. "," Unidad de información igual a 2²⁰ bits (dígitos binarios) por metro cúbico."
+"E78","Petabit"," Unidad de información igual a 10¹⁵ los bits (dígitos binarios)."
+"E79","Pebibit por segundo."," Unidad de información igual a 10¹⁵ bits (dígitos binarios) por segundo."
+"E80","Pebibit por metro.","Unidad de información igual a 2⁵⁰ bits (dígitos binarios) por metro."
+"E81","Pebibit por metro cuadrado."," Unidad de información igual a 2⁵⁰ bits (dígitos binarios) por metro cuadrado."
+"E82","Pebibit por metro cubico."," Unidad de información igual a 2⁵⁰ bits (dígitos binarios) por metro cúbico."
+"E83","Tebibit."," Unidad de información igual a 10¹² los bits (dígitos binarios)."
+"E84","Tebibit por segundo"," Unidad de información igual a 10¹² bits (dígitos binarios) por segundo."
+"E85","Tebibit por metro."," Unidad de información igual a 2⁴⁰ bits (dígitos binarios) por metro."
+"E86","Tebibit por metro cubico."," Unidad de información igual a 2⁴⁰ bits (dígitos binarios) por metro cúbico."
+"E87","Tebibit por metro cuadrado"," Unidad de información igual a 2⁴⁰ bits (dígitos binarios) por metro cuadrado."
+"E88","Bit por metro","Unidad de información igual a 1 bit (dígito binario) por metro."
+"E89","Bit por metro cuadrado"," Unidad de información igual a 1 bit (dígito binario) por metro cuadrado."
+"E90","Centímetro recíproco",
+"E91","Día recíproco",
+"EA","Pieza","Unidad de conteo que define el número de elementos considerados como unidades separadas."
+"EB","Casilla de correo electrónico","Es el destino al que correo electrónico se entregan los mensajes. Es el equivalente de un buzón en el sistema postal."
+"EQ","Galón equivalente","Unidad de volumen que define el número de galones de producto producido a partir de concentrado."
+"F01","Bit por metro cúbico","Unidad de información igual a 1 bit (dígito binario) por metro cúbico."
+"FBM","Medidor de fibra","Unidad de longitud que define el número de metros de fibra individual."
+"FC","Mil pies cúbicos","Unidad de volumen igual a mil pies cúbicos."
+"FF","Cien metros cúbicos","Unidad de volumen igual a cien metros cúbicos."
+"FIT","Fallas en el tiempo","Unidad de conteo que define el número de fallos que se pueden esperar en un intervalo de tiempo especificado. Las tasas de fallo de los componentes semiconductores se especifican a menudo como FIT (fallas en la unidad de tiempo) donde 1 FIT = 10?? / h."
+"FL","Flake ton","Unidad de masa que define el número de toneladas de una sustancia en copos (escamas: un pequeño fragmento plano)."
+"GB","Galón (us) por día",
+"GDW","Gramo, peso seco","Unidad de masa que define el número de gramos de un producto, sin tener en cuenta el contenido de agua del producto."
+"GFI","Gramo de isótopo fisible","Unidad de masa que define el número de gramos de un isótopo fisible (isótopo fisible: un isótopo cuyo núcleo es capaz de ser dividido cuando se irradia con neutrones de baja energía)."
+"GGR","Grandioso","Unidad de cuenta que define el número de unidades en múltiplos de 1728 (12 x 12 x 12)."
+"GIA","Gill (us)","Es Unidad de volumen inglesa en el sistema imperial y en los Estados Unidos. La versión imperial usada en el Reino Unido es de 5 onzas líquidas, y es equivalente a 142,0653125 ml; mientras que en los EE.UU. es de 4 onzas líquidas, y es equivalente a 118,2"
+"GIC","Gramo, incluido el contenedor","Unidad de masa que define el número de gramos de un producto, incluyendo su recipiente."
+"GII","Gill (uk)","Es Unidad de volumen inglesa en el sistema imperial y en los Estados Unidos. La versión imperial usada en el Reino Unido es de 5 onzas líquidas, y es equivalente a 142.0653125 ml; mientras que en los EE.UU. es de 4 onzas líquidas, y es equivalente a 118.2"
+"GIP","Grama, incluido el embalaje interior","Unidad de masa que define el número de gramos de un producto, incluyendo sus materiales de envasado interior."
+"GRO","Gross","Unidad de conteo que define el número de unidades en múltiplos de 144 (12 x 12)."
+"H21","Blanco","Unidad de conteo que define el número de blancos"
+"H25","Por ciento por kelvin","Unidad de proporción, igual a 0,01, en relación con la unidad de base SI Kelvin."
+"H71","Por ciento al mes","Unidad de proporción, igual a 0,01, en relación a un mes."
+"H72","Por ciento por hectobar","Unidad de proporción, igual a 0,01, en relación con 100 veces la barra unitaria"
+"H73","Por ciento por decakelvin","Unidad de proporción, igual a 0,01, en relación con 10 veces la unidad de base SI Kelvin"
+"H77","Anchura del módulo","Unidad de medida utilizada para describir la anchura de los conjuntos electrónicos como una norma de instalación o una dimensión de montaje."
+"H80","Unidad de bastidor","Unidad de medida utilizada para describir la altura en unidades de bastidor del equipo destinado a ser montado en un bastidor de 19 pulgadas o un bastidor de 23 pulgadas. Unidad de bastidor tiene 1,45 pulgadas (44,45 mm) de alto."
+"H82","Punto grande","Unidad de longitud que define el número de puntos grandes (punto grande: el software de Adobe (EE.UU.) define el punto grande a ser exactamente 1/72 de pulgada (0,013 888 9 pulgadas o 0,352 777 8 milímetros)"
+"H87","Pieza","Unidad de conteo que define el número de piezas (pieza: un solo artículo, artículo o ejemplar)."
+"H89","Por ciento por ohmio","Unidad de proporción, igual a 0,01, en relación con un ángulo de un grado."
+"H90","Porcentaje por grado","Unidad de proporción, igual a 0,01, en relación a múltiplos de diez mil."
+"H91","Por ciento por cada diez mil","Unidad de proporción, igual a 0,01, en relación a múltiplos de cien mil."
+"H92","Ciento por cien mil","Unidad de proporción, igual a 0,01, en relación a múltiplos de cien."
+"H93","Porcentaje por cien","Unidad de proporción, igual a 0,01, en relación a múltiplos de mil."
+"H94","Por ciento por mil","Unidad de proporción, igual a 0,01, en relación con la unidad derivada de SI volt."
+"H95","Por ciento por volt","Unidad de proporción, igual a 0,01, en relación con una presión atmosférica de una barra."
+"H96","Tanto por ciento por bar","Unidad de proporción, igual a 0,01, en relación con una presión atmosférica de una barra."
+"H98","Por ciento por pulgada","Unidad de proporción, igual a 0,01, en relación a una pulgada."
+"H99","Por ciento por metro","Unidad de proporción, igual a 0,01, en relación con un metro."
+"HA","Madeja","Unidad de longitud, típicamente para el hilado."
+"HBX","Cien cajas","Unidad de conteo que define el número de cajas en múltiplos de cien unidades de caja."
+"HC","Cien cuentos","Unidad de cuenta que define el número de unidades contadas en múltiplos de 100."
+"HDW","Cien kilogramos, peso seco","Unidad de masa que define el número de cien kilogramos de un producto, sin tener en cuenta el contenido de agua del producto."
+"HEA","Cabeza","Unidad de conteo que define el número de cabezas (cabeza: persona o animal considerada como un número."
+"HH","Cien pies cúbicos","Unidad de volumen igual a cien pies cúbicos."
+"HIU","Unidad internacional de cien","Unidad de cuenta que define el número de unidades internacionales en múltiplos de 100."
+"HKM","Cien kilogramos, masa neta","Unidad de masa que define el número de cientos de kilogramos de un producto, después de las deducciones."
+"HMQ","Millones de metros cúbicos","Unidad de volumen igual a un millón de metros cúbicos."
+"HPA","Hectolitro de alcohol puro","Unidad de volumen igual a cien litros de alcohol puro."
+"IE","Persona","Unidad de conteo que define el número de personas."
+"ISD","Grado internacional de azúcar","Unidad de medida que define el contenido de azúcar de una solución, expresada en grados."
+"J10","Por ciento por milímetro","Unidad de proporción, igual a 0,01, en relación a un milímetro."
+"J12","Por mille por psi","Unidad de presión igual a una milésima de psi (libra-fuerza por pulgada cuadrada)."
+"J13","Grado api","Unidad de densidad relativa como una medida de cuán pesado o ligero es un líquido de petróleo comparado con agua (API: American Petroleum Institute)."
+"J14","Grado baume (escala de origen)","Unidad tradicional de densidad relativa para líquidos. Nombrado en honor de Antoine Baumé."
+"J15","Grado baume (us pesado)","Unidad de densidad relativa para líquidos más pesados que el agua."
+"J16","Grado baume (luz de los eeuu)","Unidad de densidad relativa para líquidos más ligeros que el agua."
+"J17","Grado balling","Unidad de densidad como medida del contenido de azúcar, especialmente de mosto de cerveza. Nombrado en honor de Karl Balling."
+"J18","Grado brix","Unidad de proporcion utilizada para medir la proporcion de masa de azúcar disuelta a agua de un líquido. Nombrado en honor de Adolf Brix"
+"J27","Grado oechsle","Unidad de densidad como medida del contenido de azúcar de mosto, el licor no fermentado del que se elabora el vino. Nombrado en honor de Ferdinand Oechsle."
+"J31","Grado twaddel.","Unidad de densidad para líquidos que son más pesados que el agua. 1 grado Twaddle representa una diferencia en gravedad específica de 0,005."
+"J38","Baud","Es Unidad de medida utilizada en telecomunicaciones, que representa el número de símbolos por segundo en un medio de transmisión digital.1 Cada símbolo puede comprender 1 o más bits, dependiendo del esquema de modulación."
+"J54","Megabaud","Unidad de velocidad de transmisión de señal igual a 106 (1000000) eventos de señalización por segundo."
+"JNT","Junta de tubería","Un recuento del número de juntas de la tubería."
+"JPS","Cien metros","Unidad de conteo que define el número de longitudes de 100 metros."
+"JWL","Número de joyas","Unidad de cuenta que define el número de joyas (joya: piedra preciosa)."
+"K1","Demanda de kilowatt","Unidad de medida que define la carga de potencia medida a intervalos predeterminados."
+"K2","Kilovoltios amperios demanda reactiva","Unidad de medida que define la demanda de potencia reactiva igual a un kilovoltio de potencia reactiva."
+"K3","Kilovolt ampere hora reactivo","Unidad de medida que define la energía reactiva acumulada igual a un kilovoltio de potencia reactiva por hora."
+"K50","Kilobaud","Unidad de velocidad de transmisión de señal igual a 10³ (1000) eventos de señalización por segundo."
+"KA","Pastel","Unidad de conteo que define el número de pasteles (torta: objeto en forma de una masa plana y compacta)."
+"KB","Kilogramo","Unidad de información igual a 10³ (1000) caracteres."
+"KCC","Kilogramo de cloruro de colina","Unidad de masa igual a mil gramos de cloruro de colina."
+"KDW","Kilogramo de peso neto drenado","Unidad de masa que define el número neto de kilogramos de un producto, sin tener en cuenta el contenido líquido del producto."
+"KHY","Kilogramo de peróxido de hidrógeno","Unidad de masa igual a mil gramos de peróxido de hidrógeno."
+"KI","Kilogramo por milímetro de ancho",
+"KIC","Kilogramo, incluyendo el contenedor","Unidad de masa que define el número de kilogramos de un producto, incluido su contenedor."
+"KIP","Kilogramo, incluyendo el empaquetado interno","Unidad de masa que define el número de kilogramos de un producto, incluyendo sus materiales de embalaje internos."
+"KJ","Kilosegmento","Unidad de información igual a 10³ (1000) segmentos."
+"KLK","Porcentaje de material seco láctico","Unidad de proporción que define el porcentaje de material láctico seco en un producto."
+"KMA","Kilogramo de metilamina","Unidad de masa igual a mil gramos de metilamina."
+"KNI","Kilogramo de nitrógeno","Unidad de masa igual a mil gramos de nitrógeno."
+"KNS","Kilogram sustancia nombrada","Unidad de masa igual a un kilogramo de una sustancia llamada."
+"KO","Miliequivalentes de potasa cáustica por gramo de producto","Unidad de conteo que define el número de miligramos de hidróxido de potasio por gramo de producto como una medida de la concentración de hidróxido de potasio en el producto."
+"KPH","Kilogramo de hidróxido de potasio (potasa cáustica)","Unidad de masa igual a mil gramos de hidróxido de potasio (potasa cáustica)."
+"KPO","Kilogramo de óxido de potasio","Unidad de masa igual a mil gramos de óxido de potasio."
+"KPP","Kilogramo de pentóxido de fósforo (anhídrido fosfórico)","Unidad de masa igual a mil gramos de anhídrido fosfórico de pentóxido de fósforo."
+"KSD","Kilogramo de sustancia 90% seco","Unidad de masa igual a mil gramos de una sustancia llamada 90% seca."
+"KSH","Kilogramo de hidróxido de sodio (sodio cáustica)","Unidad de masa igual a mil gramos de hidróxido sódico (sosa cáustica)."
+"KT","Kit","Unidad de conteo que define el número de kits (kit: bañera, barril o cubo)."
+"KUR","Kilogramo de uranio","Unidad de masa igual a mil gramos de uranio."
+"KWO","Kilogramo de trióxido de tungsteno","A unit of mass equal to one thousand grams of tungsten trioxide."
+"LAC","Porcentaje de exceso de lactosa","Unidad de proporción que define el porcentaje de lactosa en un producto que excede un nivel de porcentaje definido."
+"LBT","Troy pound",
+"LEF","Hoja","Unidad de conteo que define el número de hojas."
+"LF","Pie lineal","Unidad de conteo que define el número de pies (12 pulgadas) de longitud de un objeto de ancho uniforme."
+"LH","Hora de trabajo","Unidad de tiempo que define el número de horas de trabajo."
+"LK","Enlazar","Unidad de distancia igual a 0.01 cadena."
+"LM","Metro lineal","Unidad de conteo que define el número de metros de longitud de un objeto de ancho uniforme."
+"LN","Longitud","Unidad de distancia que define la extensión lineal de un elemento medido de extremo a extremo."
+"LO","Lote [unidad de adquisición]","Unidad de conteo que define el número de lotes (lote: una colección de artículos asociados)."
+"LP","Libra líquida","Unidad de masa que define el número de libras de una sustancia líquida."
+"LPA","Litro de alcohol puro","Unidad de volumen igual a un litro de alcohol puro."
+"LR","Capa ","Unidad de conteo que define el número de capas."
+"LS","Suma global","Unidad de conteo que define el número de cantidades monetarias completas o completas."
+"LUB","Tonelada métrica, aceite lubricante","Unidad de masa que define el número de toneladas métricas de aceite lubricante."
+"LY","Yarda lineal","Unidad de conteo que define el número de unidades de 36 pulgadas en longitud de un objeto de ancho uniforme."
+"M19","Beaufort","Una medida empírica para describir la velocidad del viento basada principalmente en condiciones marinas observadas. La escala de Beaufort indica la velocidad del viento por números que típicamente varían de 0 para la calma, a 12 para el huracán."
+"M25","Porcentaje por grado celsius","Unidad de proporción, igual a 0,01, en relación a una temperatura de un grado."
+"M36","Mes de 30 días","Unidad de cuenta que define el número de meses expresado en múltiplos de 30 días, un día es igual a 24 horas."
+"M37","Actual 360","Unidad de cuenta que define el número de años expresado en múltiplos de 360 días, un día es igual a 24 horas."
+"M4","Valor monetario","Unidad de medida expresada como un monto monetario."
+"M9","Millones de btu por 1000 pies cúbicos",
+"MAH","Megavolt ampere reactivo hora","Define la cantidad total de potencia reactiva a través de un sistema de potencia."
+"MBE","Mil equivalente de ladrillo estándar","Unidad de cuenta que define el número de mil unidades equivalentes de ladrillo."
+"MBF","Mil pies de tabla",
+"MD","Tonelada métrica seca al aire","Unidad de conteo que define el número de toneladas métricas de un producto, sin tener en cuenta el contenido de agua del producto."
+"MIL","Mil","Es un número natural que se escribe 1000 o 10³ en notación científica, y que sigue del 999 y precede al 1001."
+"MIO","Millon","Es igual a mil millares, o 106. El concepto de millón también se puede expresar mediante el prefijo mega antepuesto a unidades del SI. Etimología: millón proviene del término italiano milione (del latín: mille)."
+"MIU","Unidad internacional de millon","Unidad de cuenta que define el número de unidades internacionales en múltiplos de 106."
+"MLD","Mil millones","Sinónimo: billon (US)"
+"MND","Kilogramo, peso seco","Unidad de masa que define el número de kilogramos de un producto, sin tener en cuenta el contenido de agua del producto."
+"N1","Pluma calórica","Unidad de conteo que define el número de calorías que se recetan diariamente para la terapia parenteral / enteral."
+"N3","Cubic foot per pound",
+"NAR","Número de artículos","Unidad de conteo que define el número de artículos "
+"NCL","Número de celulas","Unidad de conteo que define el número de células (célula: un espacio cerrado o circunscrito, cavidad o volumen)"
+"NF","Mensaje","unidad de conteo que define el número de mensajes"
+"NIL","Nil","Unidad de conteo que define el número de instancias de nada"
+"NIU","Número de unidades internacionales","Unidad de conteo que define el número de unidades internacionales"
+"NL","Carga","Unidad de volumen que define el número de cargas(carga: cantidad de artículos transportados o procesados al mismo tiempo)"
+"NMP","Número de paquetes","Unidad que define el número de paquetes (paquetes: colección de objetos empaquetados)"
+"NPT","Número de partes","Unidad de conteo que define el número de partes (partes: componente de larga entidad)"
+"NT","Tonelada neta","Unidad de masa equivalente a 2000 libras, ver (US). Convencion Internacional referencia sobre el arqueo de los busques"
+"NX","Parte por mil","Unidad de proporcion igual a 10 Sínonimo: por milla"
+"OA","Panel","Unidade de conteo que define el n[umero de paneles "
+"ODE","Equvalente de agotamiento del ozona","Unidad de masa que define el potencial de agotamiento del ozono en kilogramos de un producto en relación con el agotamiento calculado para la sustancia de referencia Triclorofluorometano (CFC-11)."
+"OT","Hora extra","Unidad de tiempo que define el n[umero de horas extras"
+"P1","Por ciento","Unidad de proporcion equivalente a 0.01"
+"P5","Paquete de cinco","Unidad de conteo que define el número de paquetes-cinco (paquete-cinco: set de cinco artículos empaquetados siempre)"
+"P88","Rhe","Unidad no conforme a SI de fluidez de viscosidad dinámica"
+"P89","Libra por metro cubico de pulgada","Unidad para el momento de rotación relacionado con la longitud según el sistema de unidades Anglo-Americanas e Imperial."
+"P90","Libra-fuerza por pulgada cuadrada","Unidad para el momento de rotación relacionado con la longitud según el sistema de unidades Anglo-Americanas e Imperial."
+"P91","Perm (0°c)","Unidad tradicional para la capacidad de un material para permitir la transición del vapor, definida a una temperatura de 0°C como transmitancia del vapor en la cual la masa de un grano de vapor penetra en un área de un pie cuadrado a una presión de mercur"
+"P92","Perm (23°c)","Unidad tradicional para la capacidad de un material para permitir la transición del vapor, definida a una temperatura de 23°C como transmitancia del vapor en la cual la masa de un grano de vapor penetra en un área de un pie cuadrado a una presión de mercu"
+"P93","Byte por segundo","Son utilizados para expresar la velocidad de transmisión de datos o bit rate. Con frecuencia se usa en forma ambigua como bps, que para el SI significaría ""bits por segundos"""
+"P94","Kilobyte por segundo","1000-veces la unidad de byte dividida por la unidad de base SI en segundo lugar."
+"P95","Megabite por segundo","1 000 000 veces de la unidad de byte dividida por la unidad base SI segunda"
+"P96","Recíproco de la unidad si deriva volt","Recíproco de la unidad SI deriva volt"
+"P97","Radiancia reciproca","Recíproco de la unidad radian"
+"P98","Pascal a la suma de potencia de los números estequimetricos","Unidad de la constante de equilibrio sobre la base de la presión (ISO 80000-9: 2009, 9-35.a)."
+"P99","Moles por metro cúbico a la suma de potencia de los números estequimetricos","Unidad de la constante de equilibrio sobre la base de la concentración (ISO 80000-9: 2009, 9-36.a)."
+"PD","Almohadilla","Unidad de conteo que define el número de almohadillas (almohadilla: bloquea de hojas de papel sujetas juntas en un extremo)."
+"PFL","Litro de prueba ","Unidad de volumen igual a un litro de alcoholes de prueba, o su equivalente alcohólico. Se utiliza para medir la concentración de licores alcohólicos destilados, expresada como porcentaje del contenido en alcohol de una mezcla patrón a una tempreatura esp"
+"PGL","Galón de prueba","Unidad de volumen igual a un galón de alcoholes de prueba, o su equivalente alcohólico. Se utiliza para medir la concentración de licores alcohólicos destilados, expresada como porcentaje del contenido en alcohol de una mezcla patrón a una temperatura esp"
+"PI","Tono","Unidade de conteo que define el número de caracteres que se ajustan en una pulgada horizontal"
+"PLA","Grado de platón ","Unidad de proporción que define el contenido de azúcar de un producto, especialmente en relación con la cerveza"
+"PQ","Página por pulgada","Unidad de cantidad que define el grado de espesor de una publicación enlazada, expresada como el número de de páginas por pulgada de espesor."
+"PR","Par","Unidad de conteo que define el número de pares (par: descripción por 2)"
+"PTN","Parte","Cantidad de alimentos asignados o suficientes para una persona "
+"Q10","Joule por tesla","Unidad del momento dipolar magnético de la molécula como derivado de la unidad SI joule dividido por la unidad SI derivada Tesla"
+"Q11","Erlang","Unidad del valor del mercado de acuerdo con la caracteristica de una sola característica como una medición estadística de la utilización existente "
+"Q12","Octeto","Sinónimo por byte: 1octet =8bit = 1byte"
+"Q13","Octeto por segundo","Unidad octeto dividido por la unidad base SI segundo"
+"Q14","Shannon","Unidad logarítmica para la información igual al contenido de la decisión de una oración de dos sucesos mutuamente excluyentes, expresada como un logaritmo a la base 2."
+"Q15","Hartley","Unidad logarítmica para la información igual al contenido de la decisión de una oración de diez sucesos mutuamente excluyentes, expresada como un logaritmo base 10."
+"Q16","Unidad natural de información ","Unidad logarítmica para información igual al contenido de la decisión de una oración de 718 281 828 459 sucesos mutuamente excluyentes, expresada como un logaritmo para basar el valor de Euler e."
+"Q17","Shannon por segundo","Unidad logarítmica relacionada con el tiempo para información igual al contenido de la decisión de una oración de dos sucesos mutuamente excluyentes, expresada como logarítmo base 2."
+"Q18","Hartley por segundo ","Unidad logaritmica relacionada con el tiempo para información igual al contenido de la decisión de una oración de diez sucesos mutuamente excluyentes, expresada como un logartimo a la base 10. "
+"Q19","Unidad natural de información por segundo ","Unidad logarítmica relacionada con el tiempo para información igual al contenido de la decisión de una oración 2.718281828459 mutuamente excluyentes, expresado como un logarítmo a la base del valor de Euler"
+"Q20","Kilogramo por segundo","Unidad de la probabilidad de transición de Einsten para emisiones espontáneas o inductoras y absorción según ISO 80000-7, expresada como unidad base SI dividida por la unidad base kilogramo."
+"Q21","Watt metro cuadrado","Unidad de las primeras constantes de radiación c1=2.p.c0, cuyo valor es 3.74177118.10 6 veces la del valor comparativo del producto de la unidad SI deriva watts multiplicada con la potencia de la SI medidor de la unidad base con el exponente 2."
+"Q22","Segundo por metro cúbicos de radianes ","Unidad de la densidad de estados como una expresión de la frecuencia angular como complemento del producto de hertzio y radiante y la potencia del medidor de la unidad base SI por exponente 3."
+"Q23","Weber a la potencia menos uno","Complemento de la unidad SI deriva weber como unidad de la constante de Joshepson, cuyo valor es igual al 384,597,891 veces del valor de referencia gigahertz dividido  por volt. 4"
+"Q24","Pulgáda reciproca","Complemento de la unidad pulgada según el sistema de unidades Anglo-Americanas e Imperial"
+"Q25","Dioptría","Unidad utilizada en la declaración de índices de refracción relativos de sistemas ópticos como complemento de la longitud focal con correspondencia con: 1dpt=1/m."
+"Q26","Uno por uno","Valor del cociente de dos unidades físicas del mismo tipo que un numerador y denominador mientras que las unidades se acortan mutuamente"
+"Q27","Newtons metros por metro","Unidad para el momento de rotación relacionado con la longitud como producto de la unidad SI derivada por el medidor de la unidad SI"
+"Q28","Kilograma por metro cuadrado pascal segundo","Unidad para la capacidad de un material para permitir la transición del vapor"
+"Q36","Metro cuadrado por metro cúbico","Unidad de la cantidad de superficie por unidad de volumen de un objeto o colección de objetos"
+"Q3","Comida","Unidad de conteo que define el número de comida"
+"QA","Página-fascimil","Unidad de conteo que define el número de páginas fascimil"
+"QAN","Cuarto (de un año)","Unidad de tiempo que define el número de años (3 meses)"
+"QB","Página, copia impresa","Unidad de conteo que define el número de copias impresas"
+"QR","Mano de papel","Unidad de conteo para papel, expresada como el número de manos de papel (mano de papel: numero de papel en hojas, típicamente 25)"
+"QTR","Cuarto","Unidad tradicional de peso igual a 1/4 de peso. En el Reino Unido 1/4 equivale a 28 libras."
+"R1","Pica","Unidad de conteo que define el número de picas (pica: longitud tipografia igual a 12 puntos o 4,22 mm aprox)"
+"R9","Mil metros cúbicos ","Unidad de volumen que equivale a mil metro cubicos"
+"RH","Hora de funcionamiento","Unidad de tiempo que define el número de horas de operación"
+"RM","Resma","Unidad de conteo para papel, espresada como el número de resmas (resma: una gran cantidad de hojas de papel, tipicamente 500)"
+"ROM","Habitación","Unidad de conteo que define el número de habitaciones"
+"RP","Libra por resma","Unidad de masa para papel, expresada en libras por resma. (Resma: una gran cantidad de papel, tipicamente 500 hojas)"
+"RT","Milla de toneladas de ingresos","Unidad de información tipicamente utilizada para propósitos de facturación, expresada como el número de toneladas en ingresos: una tonelada métrica o un metro cúbico, la que sea mayor) se movio  a una distancia de una milla"
+"SAN","Medio año","Unidad de tiempo que define el número de años "
+"SCO","Puntuación","Unidad de conteo que define el número de unidades en multiplos de 20"
+"SCR","Escrúpulo","El escrúpulo (en inglés apothecary scruple) era Unidad de medida utilizada en farmacia para pesar ingredientes de los medicamentos.
+
+El escrúpulo podía tener diferentes valores en cada país: en España y Portugal, un escrúpulo equivalía a 24 granos (pesand"
+"SET","Conjunto","Unidad de conteo que define el número de conjuntos (Conjunto: un número de objetos agrupados)"
+"SG","Segmento ","Unidad de información equivalente a 64000bytes"
+"SQ","Cuadrado","Unidad de conteo que define el número de cuadrados (cuadrado: forma rectangular)"
+"SQR","Cuadrado y techado","Unidad de conteo que conteo que define el número de plazas de materiales para techos, medida en múltiplos de 100 pies cuadrados"
+"SR","Tira","Unidad de conteo que define el número de tiras (pieza larga y estrecha de un objeto)"
+"STC","Palo","Unidad de conteo que define el número de palos (palo: pieza delgada y a menudo cilíndirca de una sustancia)"
+"STK","Palo, cigarrillo","Unidad de conteo que define el número de cigarrillos en la unidad más pequeña para el cálculo de la población y/o del trabajo"
+"STL","Litro estándar","Unidad de volumen que define el número de litros de un producto a una temperatura de 15 grados celsius, especialmente en relación con los aceites de hidrocarburos"
+"STW","Paja","Unidad de conteo que define el número de pajitas (paja:un tubo delgado utilizado para succionar liquidos)"
+"SW","Madeja","Unidad de conteo que define el número de madejas (skein:un paquete de hilo o hilo suelto)"
+"SX","Envío","Unidad de conteo que define el número de envíos (embarque: una cantidad de mercancias embarcadas o transportadas)"
+"SYR","Jeringuilla","Unidad de conteo que define el número de jeringuillas (jeringa: un pequeño dispositivo para bombear, pulverizar y/o inyectar liquidos a través de una pequeña abertura)"
+"T0","Linea de telecomunicaciones en servicio","Unidad de conteo que define el número de líneas de servicio"
+"T3","Mil pedazos","Unidad de conteo que define el número de piezas en múltiplos de 1000 (pieza: un solo artículo, artículo o ejemplar)"
+"TAN","Número de acido total","Unidad de química que define la cantidad de hidróxido de potasio (KOH) en miligramos que se necesita para neutralizar los ácidos en un gramo de aceite. Es una medida importante de la calidad del petróleo crudo"
+"TI","Mil pulgadas cuadradas","Unidad de medida imperial"
+"TIC","Tonelada métrica, incluido el contenedor","Unidad de masa que define el número de toneladas métricas de un producto, incluyendo su contenedor"
+"TIP","Tonelada métrica, incluido el embalaje interior","Unidad de masa que define el número de toneladas metricas de un producto, incluyendo sus materiales de embalaje interior"
+"TKM","Tonelada kilometro","Unidad de información típicamente usada para propósitos de facturación, expresada como el número de toneladas (toneladas métricas) movidas sobre una distancia de un kilómetro"
+"TMS","Kilogramo de carne importada, menos despojos","Unidad de masa equivalente a mil gramos de carne importada, sin tener en cuenta los subproductos menos valiosos como las montañas"
+"TP","Paquete de diez","Unidad de conteo que define el número de elementos en múltiplos de 10"
+"TPI","Dientes por pulgada","El número de dientes por pulgada"
+"TPR","Diez pares","Unidad de conteo que define el número de pares en multiplos de 10 (par:elemento descrito por dos)"
+"TQD","Mil metros cúbicos por día ","Unidad de volumen igual a mil metros cúbicos por día"
+"TRL","Trillones (eur)","Unidad de escala númerica"
+"TST","Diez set","Unidad de conteo que define el número de conjuntos en múltiplos de 10 (conjunto: un número de objetos agrupados)"
+"TTS","Diez mil sticks","Unidad de conteo que define el número de palos multiples de 10000 (palo: pieza delgada y a menudo cilíndrica de una sustancia)"
+"U1","Tratamiento ","Unidad de conteo que define el número de tratamientos (tratamiento: sujección a la acción de un agente químico, físico o biológico)"
+"U2","Tableta","Unidad de conteo que define el número de tabletas"
+"UB","Linea de telecomunicaciones en servicio promedio ","Unida de conteo que define el número medio de líneas de servicio"
+"UC","Puerto de telecomunicaciones ","Uindad de conteo que define el número de púertos de acceso a la red"
+"VA","Volt-ampere por kilogramo",
+"VP","Volumen porcentual ","Unidad de medida de concentración, expresada tipícamente como el porcentaje de volumen de un soluto en una solución "
+"W2","Kilo húmedo ","Unidad de masa que define el número de kilogramos de un producto, incluido el contenido de agua del producto."
+"WA","Watt por kilogramo ","Unidad de potencia"
+"WB","Libra húmeda","Unidad de masa que define el número de libras de un material, incluyendo el contenido de agua del material "
+"WCD","Cable","Unidad de volumen utilizada para medir la madera. Un pie de tabla equivale a 1/2 de un pie cúbico."
+"WE","Tonelada húmeda ","Unidad de masa que define el número de toneladas de un material, incluyendo el contenido de agua del material."
+"WG","Galón de vino","Unidad de volumen igual a 231 pulgadas cúbicas"
+"WM","Mes de trabajo ","Unidad de tiempo que define el número de meses de trabajo."
+"WSD","Estándar","Unidad de volumen de madera acabada igual a 165 pies cúbicos."
+"Z11","Contenedor colgante ","Unidad de conteo que define el número de contenedores colgantes."
+"ZP","Página","Unidad de conteo que define el número de páginas"
+"ZZ","Mutuamente definido","Unidad de medida acordada en común entre dos o más partes"
