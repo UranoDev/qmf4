@@ -16,7 +16,7 @@
  * Plugin Name:       Quiero mi Factura V4
  * Plugin URI:        https://urano.dev
  * Description:       Integración de Woocommerce con los servicios de facturación en línea de Quiero mi Factura (<a href='https://quieromifactura.mx'>quieromifactura.mx</a>).
- * Version:           1.0.1
+ * Version:           1.0.2
  * Author:            Urano González
  * Author URI:        https://urano.dev/qmf
  * License:           GPL-2.0+

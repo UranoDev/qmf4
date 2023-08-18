@@ -942,9 +942,11 @@ class Qmf4_Admin {
 		foreach($qmf_items as $item_id => $qmf_item) {
 			$s = round($qmf_item->get_subtotal(),2);
 			$t = round($qmf_item->get_total(),2);
-			$iva_factor = 1.16;
 			$x = $s - $t;
-			$x = ($s - $t) * $iva_factor;
+			$taxes = $qmf_item->get_taxes();
+			if (isset($taxes['total'][1])){
+				$x = $x + $taxes['total'][1];
+			}
 			$qmf_Title = $this->qmf4_convert_special_chars(addslashes(strip_tags($qmf_item->get_name())));
 			$qmf_QuantityShipped = $qmf_item->get_quantity();
 			$this->my_debug("prod: $qmf_Title, sub: $s, tot $t descuento: $x");
@@ -996,9 +998,8 @@ class Qmf4_Admin {
 				$num_taxes = count($taxes['total']);
 				$this->my_debug("Num de impuestos: $num_taxes");
 				$this->my_debug ("TAXES per item: ". print_r($taxes,true));
-				//foreach($taxes['subtotal'] as $rate_id => $tax){
 				foreach($taxes['total'] as $rate_id => $tax){
-					$this->my_debug ("tax per item: ($tax) $rate_id " . print_r($item_taxes[$rate_id], true));
+					$this->my_debug ("tax per item: Value $($tax) index: $rate_id " . print_r($item_taxes[$rate_id], true));
 					$tipo_factor = $item_taxes[$rate_id]['tipo_factor'] ?? "";
 					$rate_percent = $item_taxes[$rate_id]['rate_percent'];
 					if (is_numeric($tax) && is_numeric($item->get_shipping_tax_total())){
