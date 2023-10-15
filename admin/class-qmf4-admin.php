@@ -338,6 +338,7 @@ class Qmf4_Admin {
 	public function qmf4_sandbox() {
 		$qmf_sandbox = get_option( 'qmf_sandbox' );
 		echo '<input type="checkbox" name="qmf_sandbox" id="qmf_sandbox" value="1" ' . checked(1, $qmf_sandbox, false) . '>';
+        echo '<br>(IP server: ' . $_SERVER['SERVER_ADDR'] . ')<br>';
 	}
 
 	/**
@@ -730,7 +731,7 @@ class Qmf4_Admin {
 		}
 		$qmf_USUARIO = get_option( 'qmf_usuario' );
 		if(empty($qmf_RFC)) $qmf_RFC = $this->RFCGenerico;
-		$qmf_CodProducto = $qmf_CodProductoMarketPlace = $qmf_producto->id;
+		$qmf_CodProducto = $qmf_CodProductoMarketPlace = $qmf_producto->get_id();
 		$qmf_NombreProducto = $this->qmf4_convert_special_chars(addslashes(strip_tags($qmf_producto->get_name())));
 		$qmf_sku = $qmf_producto->get_sku();
 		if ($qmf_sku == ''){$qmf_sku = $qmf_CodProducto;}
@@ -1146,8 +1147,8 @@ class Qmf4_Admin {
 	}
 
 	function qmf4_add_action_batch_orders ($bulk_actions){
-		$bulk_actions['refresh_qmf'] = __('Refresh Status en QMF', "qmf");
-		return $bulk_actions;
+        //insert our custom action at beginning
+		return array( "refresh_qmf" => __( "Refresh Status at QMF", "qmf" ) ) + $bulk_actions;
 	}
 
 	function qmf4_bulk_action_handler ( $redirect_to, $doaction, $post_ids ){
@@ -1163,8 +1164,7 @@ class Qmf4_Admin {
 			$status_to = $order->get_status();
 			$this->qmf4_genera_factura($post_id, $status_to);
 		}
-		$redirect_to = add_query_arg( 'refreshed_orders', count( $post_ids ), $redirect_to );
-		return $redirect_to;
+		return add_query_arg( 'refreshed_orders', count( $post_ids ), $redirect_to );
 	}
 
 	function qmf4_bulk_action_admin_notice(){
@@ -1235,6 +1235,7 @@ class Qmf4_Admin {
 	}
 
 	function test_conexion(){
+		header('Content-Type: application/xml');
 		$handle = curl_init();
 		// Set the url
 		$url = "https://quieromifactura.mx/QA2/web_services/servidorMarket.php?wsdl";
@@ -1243,11 +1244,7 @@ class Qmf4_Admin {
 		// Set the result output to be a string.
 		curl_setopt($handle, CURLOPT_RETURNTRANSFER, true);
 		$output = curl_exec($handle);
-		$ip_server = $_SERVER['SERVER_ADDR'] ?? "desconocida";
-  		// Printing the stored address
-		echo "Server IP Address is: $ip_server <br>\n";
-
-		print_r($output);
+	    print_r($output);
 		exit();
 	}
 }

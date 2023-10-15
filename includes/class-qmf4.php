@@ -70,7 +70,7 @@ class Qmf4 {
 		if ( defined( 'QMF4_VERSION' ) ) {
 			$this->version = QMF4_VERSION;
 		} else {
-			$this->version = '1.0.0';
+			$this->version = '1.0.3';
 		}
 		$this->plugin_name = 'qmf';
 
@@ -166,9 +166,9 @@ class Qmf4 {
 		$this->loader->add_filter( 'manage_edit-product_columns', $plugin_admin, 'qmf4_agrega_columna_wc_productos' );
 		$this->loader->add_filter( 'manage_posts_custom_column', $plugin_admin, 'qmf4_llena_columna_wc_productos');
 		//Para agregar action a la lista desplegable
-		$this->loader->add_filter( 'bulk_actions-edit-shop_order', $plugin_admin, 'qmf4_add_action_batch_orders' );
+		$this->loader->add_filter( 'bulk_actions-woocommerce_page_wc-orders', $plugin_admin, 'qmf4_add_action_batch_orders' );
 		//Para actualizar status en QUIEROMIFACTURA 
-		$this->loader->add_filter( 'handle_bulk_actions-edit-shop_order', $plugin_admin, 'qmf4_bulk_action_handler', 10, 3 );
+		$this->loader->add_filter( 'handle_bulk_actions-woocommerce_page_wc-orders', $plugin_admin, 'qmf4_bulk_action_handler', 10, 3 );
 		//Muestra las actualizaciones
 		$this->loader->add_action('admin_notices', $plugin_admin, 'qmf4_bulk_action_admin_notice');
 		//Muestra datos de facturación en Profile

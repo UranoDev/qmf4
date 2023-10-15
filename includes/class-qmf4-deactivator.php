@@ -40,7 +40,7 @@ class Qmf4_Deactivator {
 	 *
 	 * @since    1.0.0
 	 */
-	function qmf4_elimina_datos_facturacion_endpoint() {
+	public static function qmf4_elimina_datos_facturacion_endpoint() {
 		/* add_rewrite_endpoint( 'datos-de-facturacion', EP_ROOT | EP_PAGES );
 		flush_rewrite_rules(); */
 	}
