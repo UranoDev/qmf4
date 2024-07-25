@@ -780,14 +780,13 @@ class Qmf4_Admin {
 			case 'completed':
 				$qmf_estatus_orden = 'Completed';
 				break;
+			case 'refunded':
 			case 'cancelled':
 				$qmf_estatus_orden = 'Cancelled';
 				break;
-			case 'refunded':
-				$qmf_estatus_orden = 'Cancelled';
-				break;
 		}
-		if ($qmf_estatus_orden === '') return;
+        if ($qmf_estatus_orden === '') return;
+
 		$qmf_orden = wc_get_order( $order_id );
 		require_once plugin_dir_path( dirname( __FILE__ ) ) . 'helpers/nusoap/nusoap.php';
 		if(get_option( 'qmf_sandbox' ) == '1'){
@@ -945,11 +944,21 @@ class Qmf4_Admin {
 		foreach($qmf_items as $item_id => $qmf_item) {
 			$s = round($qmf_item->get_subtotal(),2);
 			$t = round($qmf_item->get_total(),2);
-			$x = $s - $t;
-			$taxes = $qmf_item->get_taxes();
-			if (isset($taxes['total'][1])){
+            $tax = round($qmf_item->get_subtotal_tax(),2);
+			$x = $qmf_item->get_subtotal() - $qmf_item->get_total();
+			/*if (($tax > 0) && (false === wc_prices_include_tax())){
+                $this->my_debug("No tax in price included, subtracting tax from discount ($x - $tax)");
+                $x = round($x - $qmf_item->get_subtotal_tax(), 2);
+			}*/
+			/*$taxes = $qmf_item->get_taxes();
+			foreach ( $taxes as $rate_id => $tax_item) {
+                $this->my_debug("ID: $rate_id, taxes: " . print_r($tax_item, true));
+            }*/
+			/*if (isset($taxes['total'][1])){ //TODO Review this calculation. Without it OK, if taxes not included
+				$this->my_debug("Recalculate discount, before : $x");
 				$x = $x + $taxes['total'][1];
-			}
+                $this->my_debug("Recalculate discount, after : $x");
+			}*/
 			$qmf_Title = $this->qmf4_convert_special_chars(addslashes(strip_tags($qmf_item->get_name())));
 			$qmf_QuantityShipped = $qmf_item->get_quantity();
 			$this->my_debug("prod: $qmf_Title, sub: $s, tot $t descuento: $x");

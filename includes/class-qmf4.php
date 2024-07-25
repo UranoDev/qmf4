@@ -169,6 +169,10 @@ class Qmf4 {
 		$this->loader->add_filter( 'bulk_actions-woocommerce_page_wc-orders', $plugin_admin, 'qmf4_add_action_batch_orders' );
 		//Para actualizar status en QUIEROMIFACTURA 
 		$this->loader->add_filter( 'handle_bulk_actions-woocommerce_page_wc-orders', $plugin_admin, 'qmf4_bulk_action_handler', 10, 3 );
+		//For older Woo versions:
+		$this->loader->add_filter( 'bulk_actions-edit-shop_order', $plugin_admin, 'qmf4_add_action_batch_orders' );
+		$this->loader->add_filter( 'handle_bulk_actions-edit-shop_order', $plugin_admin, 'qmf4_bulk_action_handler', 10, 3 );
+
 		//Muestra las actualizaciones
 		$this->loader->add_action('admin_notices', $plugin_admin, 'qmf4_bulk_action_admin_notice');
 		//Muestra datos de facturación en Profile

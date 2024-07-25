@@ -476,7 +476,7 @@ class Qmf4_Public {
 	function my_debug($msj){
 		$s = get_option('qmf_DEBUG');
 		if((WP_DEBUG == true) || (get_option('qmf_DEBUG') == 1)) {
-			date_default_timezone_set(get_option('timezone_string'));
+			date_default_timezone_set(wp_timezone_string());
 			$usuario = get_option( 'qmf_usuario' );
 			$log = fopen(plugin_dir_path( dirname( __FILE__ ) ) . "Qmf4_$usuario.log", "a+");
 			fputs($log, date('Y-m-d h:i:s A') . " $msj\n");
