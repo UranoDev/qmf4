@@ -16,8 +16,8 @@
  * Plugin Name:       Quiero mi Factura V4
  * Plugin URI:        https://urano.dev
  * Description:       Integración de Woocommerce con los servicios de facturación en línea de Quiero mi Factura (<a href='https://quieromifactura.mx'>quieromifactura.mx</a>).
- * Version:           1.0.10.dev
- * Author:            Urano González
+ * Version:           1.2
+ * Author:            Urano Dev
  * Author URI:        https://urano.dev/qmf
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
@@ -25,7 +25,7 @@
  * Domain Path:       /languages
  * Requires at least: 5.0
  * Requires PHP:      7.2
- * WC tested up to 	  5.9
+ * WC tested up to 	  8.0
  * WC requires at least 5.0
  */
 
@@ -41,7 +41,7 @@ if ( ! defined( 'WPINC' ) ) {
  * Start at version 1.0.0 and use SemVer - https://semver.org
  * Rename this for your plugin and update it as you release new versions.
  */
-define( 'QMF4_VERSION', '1.0.10.dev' );
+define( 'QMF4_VERSION', '1.2' );
 
 /**
  * The code that runs during plugin activation.

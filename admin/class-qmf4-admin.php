@@ -339,6 +339,7 @@ class Qmf4_Admin {
 		$qmf_sandbox = get_option( 'qmf_sandbox' );
 		echo '<input type="checkbox" name="qmf_sandbox" id="qmf_sandbox" value="1" ' . checked(1, $qmf_sandbox, false) . '>';
         echo '<br>(IP server: ' . $_SERVER['REMOTE_ADDR'] . ')<br>';
+        echo '<br>Version Plugin: ' . QMF4_VERSION . '<br>';
 	}
 
 	/**

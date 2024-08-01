@@ -2,3 +2,5 @@ test*
 test*.php
 *test*
 *.log
+.idea
+*.xml
