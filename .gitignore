@@ -4,3 +4,7 @@ test*.php
 *.log
 .idea
 *.xml
+composer.json
+composer.lock
+vendor/
+*.zip
