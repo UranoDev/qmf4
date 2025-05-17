@@ -946,7 +946,7 @@ class Qmf4_Admin {
 			$s = round($qmf_item->get_subtotal(),2);
 			$t = round($qmf_item->get_total(),2);
             $tax = round($qmf_item->get_subtotal_tax(),2);
-			$x = $qmf_item->get_subtotal() - $qmf_item->get_total();
+			$x = ($qmf_item->get_subtotal() - $qmf_item->get_total()) *1.16;
 			/*if (($tax > 0) && (false === wc_prices_include_tax())){
                 $this->my_debug("No tax in price included, subtracting tax from discount ($x - $tax)");
                 $x = round($x - $qmf_item->get_subtotal_tax(), 2);
