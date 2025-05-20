@@ -967,7 +967,8 @@ class Qmf4_Admin {
 			$qmf_ASIN = $qmf_item->get_product_id();
 			//$qmf_ItemPrice = round (wc_get_product( $qmf_item->get_product_id() )->get_price(),6);
 			$qmf_ItemPrice = $qmf_orden->get_item_subtotal($qmf_item, true, true);
-			$amount_subtotal = $qmf_ItemPrice * $qmf_QuantityShipped;
+			//$amount_subtotal = $qmf_ItemPrice * $qmf_QuantityShipped; //Esto está mal
+            $amount_subtotal = $qmf_item->get_total() + $qmf_item->get_total_tax();
 			//El costo del envío se coloca en el primer item
 			if ($first_item){
 				$amount_shipping = $qmf_orden->get_shipping_total();
@@ -1030,7 +1031,7 @@ class Qmf4_Admin {
 				$xml .= "<!--Taxes NOT enabled-->\n";
 				$tipo_factor = "Tasa";
 				$rate_percent = 16;
-				$tax = $amount_subtotal - round(($amount_subtotal / 1.16),2);
+				$tax = $amount_subtotal - round(($amount_subtotal / 1.16),2); //TODO: revisar redondeo y esto ya lo tiene Woo calculado
 				if ($amount_shipping > 0){
 					//$tax = $tax + $qmf_orden->get_shipping_tax();
 					$tax = $tax + $amount_shipping-round(($amount_shipping/1.16),2);
@@ -1088,7 +1089,7 @@ class Qmf4_Admin {
 			update_post_meta($order_id, 'qmf_link_factura', $orden['DOCUMENTOS']);
 			update_post_meta($order_id, 'qmf_link_factura_PDF', $orden['DOCUMENTOPDF']);
 		}
-		$this->my_debug("Envío de Orden: $order_id con servicio $soap_action, impuestos: $taxes_enabled");
+		$this->my_debug("QMF4 Ver " . QMF4_VERSION . "Envío de Orden: $order_id con servicio $soap_action, impuestos: $taxes_enabled");
 		$this->my_debug("-------------------------------------------------------------------------");
 		$this->my_debug("URL: $wsdl ");
 		$this->my_debug("XML: $xml ");
