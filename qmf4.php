@@ -16,7 +16,7 @@
  * Plugin Name:       Quiero mi Factura V4
  * Plugin URI:        https://urano.dev
  * Description:       Integración de Woocommerce con los servicios de facturación en línea de Quiero mi Factura (<a href='https://quieromifactura.mx'>quieromifactura.mx</a>).
- * Version:           1.9.2
+ * Version:           1.9.3
  * Author:            Urano Dev
  * Author URI:        https://urano.dev/qmf
  * License:           GPL-2.0+
@@ -41,7 +41,7 @@ if ( ! defined( 'WPINC' ) ) {
  * Start at version 1.0.0 and use SemVer - https://semver.org
  * Rename this for your plugin and update it as you release new versions.
  */
-const QMF4_VERSION = '1.9.2';
+const QMF4_VERSION = '1.9.3';
 
 /**
  * The code that runs during plugin activation.
@@ -69,7 +69,7 @@ register_deactivation_hook( __FILE__, 'deactivate_qmf4' );
 
 require_once plugin_dir_path(  __FILE__  ) . 'helpers/plugin-update-checker-4.10/plugin-update-checker.php';
 $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
-	'https://codigonube.com/p/update/?action=get_metadata&slug=qmf4',
+	'https://codigonube.com/p/?action=get_metadata&slug=qmf4',
 	__FILE__, //Full path to the main plugin file or functions.php.
 	'qmf4'
 );

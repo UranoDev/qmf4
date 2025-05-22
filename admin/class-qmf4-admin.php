@@ -969,10 +969,11 @@ class Qmf4_Admin {
 			$qmf_ItemPrice = $qmf_orden->get_item_subtotal($qmf_item, true, true);
 			//$amount_subtotal = $qmf_ItemPrice * $qmf_QuantityShipped; //Esto está mal
             $amount_subtotal = $qmf_item->get_total() + $qmf_item->get_total_tax();
+            $amount_subtotal = $qmf_item->get_subtotal() + $qmf_item->get_subtotal_tax(); //TODO: Revisando...
+            $x = $amount_subtotal - $qmf_item->get_total();
 			//El costo del envío se coloca en el primer item
 			if ($first_item){
 				$amount_shipping = $qmf_orden->get_shipping_total();
-				//$amount_shipping = $qmf_orden->get_shipping_total() + $qmf_orden->get_shipping_tax();
 				$first_item = false;
 				$diferencia = $diferencia + $amount_shipping;
 			} else{
